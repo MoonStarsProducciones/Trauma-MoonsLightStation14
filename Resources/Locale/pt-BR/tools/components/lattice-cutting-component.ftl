@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-comp-lattice-cutting-unsafe-warning = You feel air blow past your fingers... Maybe you should reconsider?
+comp-lattice-cutting-unsafe-warning = Você sente ar assoprar por seus dedos... Talvez você deva reconsiderar?

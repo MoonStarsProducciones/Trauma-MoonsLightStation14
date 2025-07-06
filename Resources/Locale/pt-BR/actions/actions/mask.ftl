@@ -17,7 +17,7 @@ verb-description-mask-pull-down = Pull their mask down.
 verb-mask-pull-up-popup-message = {CAPITALIZE(THE($puller))} is pulling your {$mask} up!
 verb-mask-pull-down-popup-message = {CAPITALIZE(THE($puller))} is pulling your {$mask} down!
 
-verb-mask-pulled-up-popup-message = You pulled {THE($wearer)}'s {$mask} up.
-verb-mask-pulled-down-popup-message = You pulled {THE($wearer)}'s {$mask} down.
+verb-mask-pulled-up-popup-message = Você ergue sua {$mask}.
+verb-mask-pulled-down-popup-message = Você tira sua {$mask}.
 verb-mask-other-pulled-up-popup-message = {CAPITALIZE(THE($puller))} pulled your {$mask} up.
 verb-mask-other-pulled-down-popup-message = {CAPITALIZE(THE($puller))} pulled your {$mask} down.

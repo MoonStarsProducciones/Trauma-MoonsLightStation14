@@ -4,6 +4,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-zoom-desc = Sets the zoom of the main eye. Optionally also changes the eye's PVS range.
+cmd-zoom-desc = SDefine o zoom do olho principal.
 cmd-zoom-help = zoom ( <scale> | <X-scale> <Y-scale> [bool])
-cmd-zoom-error = scale has to be greater than 0
+cmd-zoom-error = escala tem que ser maior que 0

@@ -5,5 +5,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-extended-title = Extended
-extended-description = A calm experience. Admin intervention required.
+extended-title = Estendido
+extended-description = Sem antagonistas, se divirta!

@@ -21,28 +21,28 @@
 ### Interaction Messages
 
 # When trying to eat food without the required utensil... but you gotta hold it
-food-you-need-to-hold-utensil = You need to be holding {INDEFINITE($utensil)} {$utensil} to eat that!
+food-you-need-to-hold-utensil = Você precisa estar segurando um(a) {$utensil} para comer isso!
 
-food-nom = Nom. {$flavors}
-food-swallow = You swallow { THE($food) }. {$flavors}
+food-nom = Nom
+food-swallow = Você engole o(a) {$food}.
 
-food-has-used-storage = You cannot eat { THE($food) } with an item stored inside.
+food-has-used-storage = Você não pode comer {THE($food)} com um item armazenado dentro.
 
-food-system-remove-mask = You need to take off the {$entity} first.
+food-system-remove-mask = Você precisa tirar a {$entity} primeiro.
 
 ## System
 
-food-system-you-cannot-eat-any-more = You can't eat any more!
-food-system-you-cannot-eat-any-more-other = {CAPITALIZE(SUBJECT($target))} can't eat any more!
-food-system-try-use-food-is-empty = {CAPITALIZE(THE($entity))} is empty!
-food-system-wrong-utensil = You can't eat {THE($food)} with {INDEFINITE($utensil)} {$utensil}.
-food-system-cant-digest = You can't digest {THE($entity)}!
-food-system-cant-digest-other = {CAPITALIZE(SUBJECT($target))} can't digest {THE($entity)}!
+food-system-you-cannot-eat-any-more = Você não consegue comer mais!
+food-system-you-cannot-eat-any-more-other = Eles não conseguem comer mais!
+food-system-try-use-food-is-empty = {CAPITALIZE(THE($entity))} está vazio(a)!
+food-system-wrong-utensil = Você não consegue comer {THE($food)} com {INDEFINITE($utensil)} {$utensil}.
+food-system-cant-digest = Você não consegue digerir {THE($entity)}!
+food-system-cant-digest-other = Eles não conseguem digerir{THE($entity)}!
 
-food-system-verb-eat = Eat
+food-system-verb-eat = Comer
 
 ## Force feeding
 
-food-system-force-feed = {CAPITALIZE(THE($user))} is trying to feed you something!
-food-system-force-feed-success = {CAPITALIZE(THE($user))} forced you to eat something! {$flavors}
-food-system-force-feed-success-user = You successfully feed {THE($target)}
+food-system-force-feed = O {CAPITALIZE($user)} está tentando te alimentar algo!
+food-system-force-feed-success =O {CAPITALIZE($user)} forced you to eat something! {$flavors}
+food-system-force-feed-success-user = Você alimentou o(a) {$target}

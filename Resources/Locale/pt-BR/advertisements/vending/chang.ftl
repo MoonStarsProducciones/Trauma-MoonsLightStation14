@@ -5,10 +5,10 @@
 #
 # SPDX-License-Identifier: MIT
 
-advertisement-chang-1 = Taste 5000 years of culture!
-advertisement-chang-2 = Mr. Chang, approved for safe consumption in over 10 sectors!
-advertisement-chang-3 = Chinese food is great for a date night, or a lonely night!
-advertisement-chang-4 = You can't go wrong with Mr. Chang's authentic Chinese food!
-advertisement-chang-5 = 100% authentic Chinese food!
-thankyou-chang-1 = Mr. Chang says thank you!
-thankyou-chang-2 = Enjoy your authentic meal!
+advertisement-chang-1 = 5000 Anos de pura cultura!
+advertisement-chang-2 = Sr. Chang, Aprovado por mais de 10 setores!
+advertisement-chang-3 = Comida chinesa é bom pra uma noite romântica, ou uma noite solteira!
+advertisement-chang-4 = O Sr.chang é implacável!
+advertisement-chang-5 = 100% Comida chinesa autêntica!
+thankyou-chang-1 = O Sr. Chang agradece!
+thankyou-chang-2 = Aproveite a sua refeição autêntica!

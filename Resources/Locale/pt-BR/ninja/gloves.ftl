@@ -6,9 +6,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-ninja-gloves-on = The gloves surge with power!
-ninja-gloves-off = The gloves power down...
-ninja-gloves-not-wearing-suit = You aren't wearing a ninja suit
-ninja-gloves-examine-on = All abilities are enabled.
-ninja-gloves-examine-off = Boring old gloves...
-ninja-doorjack-success = The gloves zap something in {THE($target)}.
+ninja-gloves-on = As luvas vibram com poder!
+ninja-gloves-off = As luvas desligam...
+ninja-gloves-not-wearing-suit = Você não está vestindo uma roupa de ninja
+ninja-gloves-examine-on = Todas as habilidades estão habilitadas.
+ninja-gloves-examine-off = Luvas velhas e chatas...
+ninja-doorjack-success = As luvas atingem algo {THE($target)}.

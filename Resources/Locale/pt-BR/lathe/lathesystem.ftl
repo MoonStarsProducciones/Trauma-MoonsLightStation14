@@ -5,4 +5,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-lathe-popup-material-not-used = This material is not used in this machine.
+lathe-popup-material-not-used = Esse material não é usado nesse torno.

@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-frezon-lungs-cold = Your lungs feel colder..
-frezon-euphoric = You feel chilly, but euphoric..
+frezon-lungs-cold = Você sente os seus pulmões ficarem gelados...
+frezon-euphoric = Você se sente gelado, mas eufórico...

@@ -6,15 +6,15 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-examine-trigger-voice = The display reads: "{$keyphrase}"
-trigger-voice-uninitialized = The display reads: Uninitialized...
+examine-trigger-voice = A tela mostra "{$keyphrase}"
+trigger-voice-uninitialized = A tela mostra: Uninitialized...
 
-verb-trigger-voice-record = Record
-verb-trigger-voice-stop = Stop
-verb-trigger-voice-clear = Clear recording
+verb-trigger-voice-record = Gravar
+verb-trigger-voice-stop = Parar
+verb-trigger-voice-clear = Apagar gravação
 
-popup-trigger-voice-start-recording = Started recording
-popup-trigger-voice-stop-recording = Stopped recording
-popup-trigger-voice-record-failed-too-long = Message too long, try again
-popup-trigger-voice-record-failed-too-short = Message too short, try again
+popup-trigger-voice-start-recording = Começou a gravar
+popup-trigger-voice-stop-recording = Parou de gravar
+popup-trigger-voice-record-failed-too-long = Mensagem longa demais, tente novamente
+popup-trigger-voice-record-failed-too-short = Mensagem curta demais, tente novamente
 popup-trigger-voice-recorded = Recorded successfully

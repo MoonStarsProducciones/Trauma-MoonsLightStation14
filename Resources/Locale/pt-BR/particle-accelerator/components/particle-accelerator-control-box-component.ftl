@@ -5,4 +5,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-particle-accelerator-control-box-component-wires-update-limiter-on-pulse = The control box makes a whirring noise.
+particle-accelerator-control-box-component-wires-update-limiter-on-pulse = A caixa de controle produz um som estranho.

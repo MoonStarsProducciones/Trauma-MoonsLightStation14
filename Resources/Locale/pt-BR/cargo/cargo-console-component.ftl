@@ -1,31 +1,32 @@
 ## UI
-
-cargo-console-menu-title = Cargo request console
-cargo-console-menu-flavor-left = Order even more pizza boxes than usual!
+cargo-console-menu-title = Console de Pedidos da Cargo
+bounty-manifest-header = [font size=14][bold]Official cargo bounty manifest[/bold] (ID#{$id})[/font]
 cargo-console-menu-flavor-right = v2.1
-cargo-console-menu-account-name-label = Account:{" "}
-cargo-console-menu-account-name-none-text = None
+bounty-manifest-list-start = Item manifest:
+cargo-console-menu-account-name-label = Nome da conta:{" "}
+cargo-console-menu-account-name-none-text = Nenhum
 cargo-console-menu-account-name-format = [bold][color={$color}]{$name}[/color][/bold] [font="Monospace"]\[{$code}\][/font]
-cargo-console-menu-shuttle-name-label = Shuttle name:{" "}
-cargo-console-menu-shuttle-name-none-text = None
-cargo-console-menu-points-label = Balance:{" "}
+cargo-console-menu-shuttle-name-label = Nome da nave:{" "}
+cargo-console-menu-shuttle-name-none-text = Nenhum
+cargo-console-menu-points-label = Spesos:{" "}
 cargo-console-menu-points-amount = ${$amount}
-cargo-console-menu-shuttle-status-label = Shuttle status:{" "}
-cargo-console-menu-shuttle-status-away-text = Away
-cargo-console-menu-order-capacity-label = Order capacity:{" "}
+cargo-console-menu-shuttle-status-label = Status da nave:{" "}
+cargo-console-menu-shuttle-status-away-text = Fora
+cargo-console-menu-order-capacity-label = Capacidade de encomendas:{" "}
 cargo-console-menu-order-capacity-number = {$count}/{$capacity}
-cargo-console-menu-call-shuttle-button = Activate telepad
-cargo-console-menu-permissions-button = Permissions
-cargo-console-menu-categories-label = Categories:{" "}
-cargo-console-menu-search-bar-placeholder = Search
-cargo-console-menu-requests-label = Requests
-cargo-console-menu-orders-label = Orders
+cargo-console-menu-call-shuttle-button = Ativar telepad
+cargo-console-menu-permissions-button = Permissões
+cargo-console-menu-categories-label = Categorias:{" "}
+cargo-console-menu-search-bar-placeholder = Pesquisar
+cargo-console-menu-requests-label = Pedidos
+cargo-console-menu-orders-label = Encomendas
+cargo-console-menu-order-reason-description = Justificativas: {$reason}
 cargo-console-menu-populate-categories-all-text = All
 cargo-console-menu-order-row-title = {$productName} (x{$orderAmount} for {$orderPrice}$)
 cargo-console-menu-populate-orders-cargo-order-row-product-name-text = Requested by: {$orderRequester} from [color={$accountColor}]{$account}[/color]
 cargo-console-menu-order-row-product-description = Reason: {$orderReason}
-cargo-console-menu-order-row-button-approve = Approve
-cargo-console-menu-order-row-button-cancel = Cancel
+cargo-console-menu-order-row-button-approve = Aprovar
+cargo-console-menu-order-row-button-cancel = Cancelar
 cargo-console-menu-order-row-alerts-reason-absent = The reason is not specified
 cargo-console-menu-order-row-alerts-requester-unknown = Unknown
 cargo-console-menu-tab-title-orders = Orders
@@ -40,14 +41,14 @@ cargo-console-menu-account-action-option-withdraw = Withdraw Cash
 cargo-console-menu-account-action-option-transfer = Transfer Funds to {$code}
 
 # Orders
-cargo-console-order-not-allowed = Access not allowed
-cargo-console-station-not-found = No available station
-cargo-console-invalid-product = Invalid product ID
-cargo-console-too-many = Too many approved orders
-cargo-console-snip-snip = Order trimmed to capacity
-cargo-console-insufficient-funds = Insufficient funds (require {$cost})
-cargo-console-unfulfilled = No room to fulfill order
-cargo-console-trade-station = Sent to {$destination}
+cargo-console-order-not-allowed = Acesso não permitido
+cargo-console-station-not-found = Sem estação disponível
+cargo-console-invalid-product = ID do produto inválido
+cargo-console-too-many = Encomendas demais aprovadas
+cargo-console-snip-snip = Limite de encomendas alcançado
+cargo-console-insufficient-funds = Créditos insuficientes (necessita {$cost})
+cargo-console-unfulfilled = Sem espaço para cumprir a ordem
+cargo-console-trade-station = Enviado para {$destination}
 cargo-console-unlock-approved-order-broadcast = [bold]{$productName} x{$orderAmount}[/bold], which cost [bold]{$cost}[/bold], was approved by [bold]{$approver}[/bold]
 cargo-console-fund-withdraw-broadcast = [bold]{$name} withdrew {$amount} spesos from {$name1} \[{$code1}\]
 cargo-console-fund-transfer-broadcast = [bold]{$name} transferred {$amount} spesos from {$name1} \[{$code1}\] to {$name2} \[{$code2}\][/bold]
@@ -56,21 +57,21 @@ cargo-console-fund-transfer-user-unknown = Unknown
 cargo-console-paper-reason-default = None
 cargo-console-paper-approver-default = Unknown
 cargo-console-paper-print-name = Order #{$orderNumber}
-cargo-console-paper-print-text = [head=2]Order #{$orderNumber}[/head]
+cargo-console-paper-print-text = [head=2]Encomenda #{$orderNumber}[/head]
     {"[bold]Item:[/bold]"} {$itemName} (x{$orderQuantity})
     {"[bold]Requested by:[/bold]"} {$requester}
 
-    {"[head=3]Order Information[/head]"}
-    {"[bold]Payer[/bold]:"} {$account} [font="Monospace"]\[{$accountcode}\][/font]
-    {"[bold]Approved by:[/bold]"} {$approver}
-    {"[bold]Reason:[/bold]"} {$reason}
+    {"[head=3]Informações do pedido[/head]"}
+    {"[bold]Pagador[/bold]:"} {$account} [font="Monospace"]\[{$accountcode}\][/font]
+    {"[bold]Approvado por:[/bold]"} {$approver}
+    {"[bold]Justificativa:[/bold]"} {$reason}
 
 # Cargo shuttle console
-cargo-shuttle-console-menu-title = Cargo shuttle console
-cargo-shuttle-console-station-unknown = Unknown
-cargo-shuttle-console-shuttle-not-found = Not found
-cargo-shuttle-console-organics = Detected organic lifeforms on the shuttle
-cargo-no-shuttle = No cargo shuttle found!
+cargo-shuttle-console-menu-title = Console da Nave da Cargo
+cargo-shuttle-console-station-unknown = Desconhecida
+cargo-shuttle-console-shuttle-not-found = Não encontrada
+cargo-shuttle-console-organics = Formas de vida orgânica encontradas na nave
+cargo-no-shuttle = Nenhuma nave de carga encontrada!
 
 # Funding allocation console
 cargo-funding-alloc-console-menu-title = Funding Allocation Console

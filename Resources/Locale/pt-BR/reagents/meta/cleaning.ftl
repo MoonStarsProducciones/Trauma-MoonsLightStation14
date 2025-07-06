@@ -8,17 +8,18 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-reagent-name-bleach = bleach
-reagent-desc-bleach = Heavy duty cleaner that can clean tiles better than Space Cleaner. Extremely toxic when ingested.
+reagent-name-bleach = água sanitária
+reagent-desc-bleach = Limpador de serviço pesado que pode limpar os mesmos pisos que o limpador espacial, e pode também descontaminar roupas. Extremamente tóxico quando ingerido.
 
-reagent-name-space-cleaner = space cleaner
-reagent-desc-space-cleaner = This is able to clean almost all surfaces of almost anything that may dirty them. The janitor is likely to appreciate refills.
+reagent-name-space-cleaner = limpador espacial
+reagent-desc-space-cleaner = É capaz de limpar quase todas as superfícies de qualquer coisa que as suje. O zelador provavelmente gosta de refills disto.
 
-reagent-name-soap = soap
-reagent-desc-soap = I wouldn't clean my mouth out with this if I were you.
+reagent-name-soap = sabão
+reagent-desc-soap = Eu não limparia a boca com isso se eu fosse você.
 
-reagent-name-space-lube = space lube
-reagent-desc-space-lube = Space Lube is a high performance lubricant intended for maintenance of extremely complex mechanical equipment (and certainly not used to make people slip).
+reagent-name-space-lube = lubrificante espacial
+reagent-desc-space-lube = O lubrificante espacial é um lubrificante de alta qualidade feito para manutenção equipamentos mecânicos extremamente complexos (e obviamente não é usado para fazer pessoas escorregarem).
 
-reagent-name-space-glue = space glue
-reagent-desc-space-glue = Space Glue is a high performance glue intended for maintenance of extremely complex mechanical equipment (and certainly not used to make people stick to the floor).
+reagent-name-space-glue = cola espacial
+reagent-desc-space-glue = A Cola Espacial é uma cola de alto desempenho destinada à manutenção de equipamentos mecânicos extremamente complexos (e certamente não é utilizada para fazer as pessoas grudarem no chão).
+

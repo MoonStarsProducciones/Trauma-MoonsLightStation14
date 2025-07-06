@@ -7,20 +7,21 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 apc-menu-title = APC
-apc-menu-breaker-label = Main Breaker
-apc-menu-power-label = Load
-apc-menu-external-label = External Power
-apc-menu-charge-label = {$percent} Charged
+apc-menu-breaker-label = Disjuntor Principal
+apc-menu-breaker-button = Alternar
+apc-menu-power-label = Carga
+apc-menu-external-label = Potência Externa
+apc-menu-charge-label = {$percent} Carregado
 
 # For the power state label
 
-apc-menu-power-state-good = Good
-apc-menu-power-state-low = Low
-apc-menu-power-state-none = None
+apc-menu-power-state-good = Bom
+apc-menu-power-state-low = Baixo
+apc-menu-power-state-none = Nenhum
 apc-menu-power-state-label-text = { POWERWATTS($power) } / { POWERWATTS($maxLoad) }
-apc-menu-power-state-label-tripped = OVERLOAD
+apc-menu-power-state-label-tripped = SOBRECARGA
 
 # For the flavor text on the footer
 
-apc-menu-flavor-left = Contact an engineer for assistance.
+apc-menu-flavor-left = Entre em contato com um engenheiro para assistência.
 apc-menu-flavor-right = v1.2

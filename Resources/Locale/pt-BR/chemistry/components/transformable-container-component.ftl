@@ -5,4 +5,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-transformable-container-component-glass = Copo de {$reagent}
+transformable-container-component-glass = {$reagent} vidro

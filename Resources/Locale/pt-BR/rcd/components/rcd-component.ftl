@@ -12,55 +12,63 @@
 
 
 ### UI
+rcd-component-examine-mode-details = Atualmente está configurado para o modo '{$mode}'.
+rcd-component-examine-build-details = Atualmente está configurado para construir {MAKEPLURAL($name)}.
 
-rcd-component-examine-mode-details = It's currently set to '{$mode}' mode.
-rcd-component-examine-build-details = It's currently set to build {MAKEPLURAL($name)}.
+### Mensagens de Interação
 
+# Mudança de Modo
+rcd-component-change-mode = O RCD agora está configurado para o modo '{$mode}'.
+rcd-component-change-build-mode = O RCD agora está configurado para construir {MAKEPLURAL($name)}.
 
-### Interaction Messages
+# Contagem de Munição
+rcd-component-no-ammo-message = O RCD ficou sem cargas!
+rcd-component-insufficient-ammo-message = O RCD não tem cargas suficientes restantes!
 
-# Mode change
-rcd-component-change-mode = The RCD is now set to '{$mode}' mode.
-rcd-component-change-build-mode = The RCD is now set to build {MAKEPLURAL($name)}.
+# Desconstrução
+rcd-component-tile-indestructible-message = Esse azulejo não pode ser destruído!
+rcd-component-deconstruct-target-not-on-whitelist-message = Você não pode desconstruir isso!
+rcd-component-nothing-to-deconstruct-message = Não há nada para desconstruir!
+rcd-component-tile-obstructed-message = Você não pode desconstruir azulejos quando há algo em cima deles!
 
-# Ammo count
-rcd-component-no-ammo-message = The RCD has run out of charges!
-rcd-component-insufficient-ammo-message = The RCD doesn't have enough charges left!
+# Construção
+rcd-component-no-valid-grid = Você está muito longe do espaço aberto para construir aqui!
+rcd-component-must-build-on-empty-tile-message = Já existe uma fundação aqui!
+rcd-component-cannot-build-on-empty-tile-message = Você não pode construir isso sem uma fundação!
+rcd-component-must-build-on-subfloor-message = Você só pode construir isso em um subpiso exposto!
+rcd-component-cannot-build-on-subfloor-message = Você não pode construir isso em um subpiso exposto!
+rcd-component-cannot-build-on-occupied-tile-message = Você não pode construir aqui, o espaço já está ocupado!
+rcd-component-cannot-build-identical-tile = Esse azulejo já existe aí!
 
-# Deconstruction
-rcd-component-tile-indestructible-message = That tile can't be destructed!
-rcd-component-deconstruct-target-not-on-whitelist-message = You can't deconstruct that!
-rcd-component-nothing-to-deconstruct-message = There's nothing to deconstruct!
-rcd-component-tile-obstructed-message = You can't deconstruct tiles when there's something on top of them!
-rcd-component-deconstruct-target-no-access = You don't have access to deconstruct that!
-rcd-component-deconstruct-target-is-bolted = Mechanism's bolts prevent deconstruction!
+## Nomes de categoria
 
-# Construction
-rcd-component-no-valid-grid = You're too far into open space to build here!
-rcd-component-must-build-on-empty-tile-message = A foundation already exists here!
-rcd-component-cannot-build-on-empty-tile-message = You can't build that without a foundation!
-rcd-component-must-build-on-subfloor-message = You can only build that on exposed subfloor!
-rcd-component-cannot-build-on-subfloor-message = You can't build that on exposed subfloor!
-rcd-component-cannot-build-on-occupied-tile-message = You can't build here, the space is already occupied!
-rcd-component-cannot-build-identical-tile = That tile already exists there!
-rcd-component-cannot-build-identical-entity = That already exists there!
-
-
-### Category names
-
-rcd-component-walls-and-flooring = Walls and flooring
-rcd-component-windows-and-grilles = Windows and grilles
+rcd-component-walls-and-flooring = Paredes e pisos
+rcd-component-windows-and-grilles = Janelas e grades
 rcd-component-airlocks = Airlocks
-rcd-component-electrical = Electrical
-rcd-component-lighting = Lighting
-rcd-component-piping = Piping
-rcd-component-atmosphericutility = Atmospheric Utility
-rcd-component-pumps = Pumps & Valves
-rcd-component-vents = Vents
+rcd-component-electrical = Elétrica
+rcd-component-lighting = Iluminação
 
+### Nomes de protótipos
 
-### Prototype names (note: constructable items will be puralized)
-
-rcd-component-deconstruct = deconstruct
-rcd-component-floor-steel = steel tile
-rcd-component-plating = hull plate
+rcd-component-deconstruct = desmontar
+rcd-component-wall-solid = parede sólida
+rcd-component-floor-steel = piso de aço
+rcd-component-plating = placa de casco
+rcd-component-catwalk = passarela
+rcd-component-wall-reinforced = parede reforçada
+rcd-component-grille = grade
+rcd-component-window = janela
+rcd-component-window-directional = janela direcional
+rcd-component-window-reinforced-directional = janela direcional reforçada
+rcd-component-reinforced-window = janela reforçada
+rcd-component-airlock = airlock padrão
+rcd-component-airlock-glass = airlock de vidro
+rcd-component-firelock = airlock de incêndio
+rcd-component-computer-frame = estrutura de computador
+rcd-component-machine-frame = estrutura de máquina
+rcd-component-tube-light = luz
+rcd-component-window-bulb-light = luz pequena
+rcd-component-window-lv-cable = cabo LV
+rcd-component-window-mv-cable = cabo MV
+rcd-component-window-hv-cable = cabo HV
+rcd-component-window-cable-terminal = terminal de cabo

@@ -6,8 +6,8 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 ### SetOutfitMEnu.xaml.cs
+set-outfit-menu-title = Escolher Vestimentas
+set-outfit-menu-confirm-button = Confirmar
 
-set-outfit-menu-title = Set Outfit
-set-outfit-menu-confirm-button = Confirm
 # Goob Station
 set-outfit-menu-toggle-special = Do Special Effects

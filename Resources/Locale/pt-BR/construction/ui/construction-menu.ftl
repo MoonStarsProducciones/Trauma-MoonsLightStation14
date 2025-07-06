@@ -8,12 +8,12 @@
 
 ## ConstructionMenu.xaml.cs
 
-construction-menu-title = Construction
-construction-menu-place-ghost = Place construction ghost
-construction-menu-clear-all = Clear All
-construction-menu-eraser-mode = Eraser Mode
-construction-menu-craft = Craft
-construction-menu-search = Search
+construction-menu-title = Construção
+construction-menu-place-ghost = Colocar fantasma de construção
+construction-menu-clear-all = Limpar Tudo
+construction-menu-eraser-mode = Modo Borracha
+construction-menu-craft = Criar
+construction-menu-search = Pesquisar
 construction-menu-grid-view = Grid View
-construction-menu-history-select-previous-recipe = ◄ Back
-construction-menu-history-select-next-recipe = Next ►
+construction-menu-history-select-previous-recipe = ◄ Anterior
+construction-menu-history-select-next-recipe = Proximo ►

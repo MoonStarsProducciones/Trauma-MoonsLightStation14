@@ -12,11 +12,11 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-tool-quality-anchoring-name = Anchoring
-tool-quality-anchoring-tool-name = Wrench
+tool-quality-anchoring-name = Ancorar
+tool-quality-anchoring-tool-name = Chave Inglesa
 
-tool-quality-prying-name = Prying
-tool-quality-prying-tool-name = Crowbar
+tool-quality-prying-name = Forçar
+tool-quality-prying-tool-name = Pé de cabra
 
 tool-quality-screwing-name = Screwing
 tool-quality-screwing-tool-name = Screwdriver
@@ -27,32 +27,38 @@ tool-quality-cutting-tool-name = Wirecutter
 tool-quality-shearing-name = Shearing
 tool-quality-shearing-tool-name = Wirecutter
 
-tool-quality-welding-name = Welding
-tool-quality-welding-tool-name = Welder
+tool-quality-screwing-name = Aparafusar
+tool-quality-screwing-tool-name = Chave de fenda
 
-tool-quality-pulsing-name = Pulsing
+tool-quality-cutting-name = Cortar
+tool-quality-cutting-tool-name = Alicate de Fios
+
+tool-quality-welding-name = Soldar
+tool-quality-welding-tool-name = Soldador
+
+tool-quality-pulsing-name = Pulsar
 tool-quality-pulsing-tool-name = Multitool
 
-tool-quality-slicing-name = Slicing
-tool-quality-slicing-tool-name = Knife
+tool-quality-slicing-name = Cortar
+tool-quality-slicing-tool-name = Faca
 
-tool-quality-ignition-name = Ignition
-tool-quality-ignition-tool-name = Match
+tool-quality-sawing-name = Serrar
+tool-quality-sawing-tool-name = Serra
 
-tool-quality-sawing-name = Sawing
-tool-quality-sawing-tool-name = Saw
+tool-quality-sawing-name = Serrar
+tool-quality-sawing-tool-name = Serra
 
 tool-quality-honking-name = Honking
 tool-quality-honking-tool-name = Bike Horn
 
-tool-quality-woodcutting-name = Woodcutting
-tool-quality-woodcutting-tool-name = Hatchet
+tool-quality-woodcutting-name = Cortador de Madeira
+tool-quality-woodcutting-tool-name = Machadinha
 
 tool-quality-rolling-name = Rolling
 tool-quality-rolling-tool-name = Rolling Pin
 
-tool-quality-digging-name = Digging
-tool-quality-digging-tool-name = Shovel
+tool-quality-digging-name = Escavação
+tool-quality-digging-tool-name = Pá
 
 tool-quality-brushing-name = Brushing
 tool-quality-brushing-tool-name = Wire Brush

@@ -8,7 +8,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # Shown when examining an in-construction object
-construction-insert-arbitrary-entity = Next, insert [color=cyan]{$stepName}[/color].
+construction-insert-arbitrary-entity = Agora, insira {$stepName}.
 
 construction-insert-info-examine-name-instrument-brass = brass instrument
 construction-insert-info-examine-name-instrument-keyed = keyed instrument

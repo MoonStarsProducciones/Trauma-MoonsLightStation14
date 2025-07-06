@@ -21,47 +21,58 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-ghost-gui-return-to-body-button = Return to body
-ghost-gui-ghost-warp-button = Ghost Warp
-ghost-gui-ghost-roles-button = Ghost Roles ({$count})
-ghost-gui-toggle-ghost-visibility-popup-on = Enabled visibility of ghosts.
-ghost-gui-toggle-ghost-visibility-popup-off = Disabled visibility of ghosts.
+ghost-gui-return-to-body-button = Voltar pro Corpo
+ghost-gui-ghost-warp-button = Teleportar
+ghost-gui-ghost-roles-button = Funções Fantasmas ({$count})
+ghost-gui-toggle-ghost-visibility-popup-on = Habilitar visibilidade de fantasmas.
+ghost-gui-toggle-ghost-visibility-popup-off = Disabilitar visibilidade de fantasmas.
 ghost-gui-toggle-lighting-manager-popup-normal = Normal light.
 ghost-gui-toggle-lighting-manager-popup-half-bright = Half-Bright.
 ghost-gui-toggle-lighting-manager-popup-fullbright = Fullbright.
-ghost-gui-toggle-fov-popup = Toggled field-of-view.
+ghost-gui-toggle-fov-popup = Alternou o campo de visão.
 
-ghost-gui-toggle-hearing-popup-on = You can now hear all messages.
-ghost-gui-toggle-hearing-popup-off = You can now only hear radio and nearby messages.
+ghost-gui-toggle-hearing-popup-on = Agora você pode ouvir todas as mensagens.
+ghost-gui-toggle-hearing-popup-off = Agora você só pode ouvir rádio e mensagens próximas.
 
-ghost-target-window-title = Ghost Warp
-ghost-target-window-current-button = Warp: {$name}
+ghost-target-window-title = Teleportar
+ghost-target-window-current-button = Teleportar: {$name}
 ghost-target-window-warp-to-title = [bold]Quick Warp[/bold]
-ghost-target-window-warp-to-most-followed = Most Followed
+ghost-target-window-warp-to-most-followed = Teleportar para o mais seguido
 ghost-target-window-warp-to-random-followed = Random Followed
 ghost-target-window-warp-to-random = Random
 ghost-target-window-warp-to-most-followed-tooltip = Warp to the most followed player
 ghost-target-window-warp-to-random-followed-tooltip = Warp to a random followed player
 ghost-target-window-warp-to-random-tooltip = Warp to a random player
 
-ghost-roles-window-title = Ghost Roles
+ghost-roles-window-title = Funções Fantasmas
 ghost-roles-window-available-button = Available ({$rolesCount})
-ghost-roles-window-join-raffle-button = Join raffle
+ghost-roles-window-join-raffle-button = Entrar no sorteio
 ghost-roles-window-raffle-in-progress-button =
-    Join raffle ({$time} left, { $players ->
-         [one] {$players} player
-        *[other] {$players} players
+    Entrar no sorteio (restam {$time}, { $players ->
+         [one] {$players} jogador
+        *[other] {$players} jogadores
     })
 ghost-roles-window-leave-raffle-button =
-    Leave raffle ({$time} left, { $players ->
-         [one] {$players} player
-        *[other] {$players} players
+    Sair do sorteio (restam {$time}, { $players ->
+         [one] {$players} jogador
+        *[other] {$players} jogadores
     })
-ghost-roles-window-request-role-button = Request
-ghost-roles-window-request-role-button-timer = Request ({$time}s)
-ghost-roles-window-follow-role-button = Follow
-ghost-roles-window-no-roles-available-label = There are currently no available ghost roles.
-ghost-roles-window-rules-footer = The button will enable after {$time} seconds (this delay is to make sure you read the rules).
+ghost-roles-window-request-role-button = Solicitar
+ghost-roles-window-request-role-button-timer = Solicitar ({$time}s)
+ghost-roles-window-follow-role-button = Ir
+ghost-roles-window-no-roles-available-label = Não há funções fantasmas disponíveis.
+ghost-roles-window-rules-footer = A opção estará disponível em {$time} segundos (este tempo é para ter certeza que você leu as regras).
 
-ghost-return-to-body-title = Return to Body
-ghost-return-to-body-text = Med is so competent that you are being revived! Return to your body?
+ghost-return-to-body-title = Retorne ao corpo
+ghost-return-to-body-text = Você está sendo revivido! Retornar ao seu corpo?
+ghost-gui-return-to-round-button = Retornar à rodada
+
+ghost-gui-toggle-ghost-visibility-button = Alternar Fantasmas
+ghost-gui-toggle-ghost-visibility-name = Alternar Fantasmas
+ghost-gui-toggle-ghost-visibility-desc = Alternar a visibilidade de outros fantasmas.
+ghost-gui-toggle-lighting-manager-name = Alternar Toda a Iluminação
+ghost-gui-toggle-lighting-manager-desc = Alternar toda a renderização de iluminação para observar melhor as áreas escuras.
+
+ghost-roles-window-redirect-label = Redirecionar para outro servidor
+ghost-roles-window-redirect = Redirecionar
+ghost-roles-window-redirect-label-empty = Você pode se conectar a outro servidor.

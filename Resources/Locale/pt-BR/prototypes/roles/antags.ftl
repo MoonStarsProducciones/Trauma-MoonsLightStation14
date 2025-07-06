@@ -1,53 +1,47 @@
-roles-antag-generic-solo-antagonist-name = Solo Antagonist
+roles-antag-syndicate-agent-name = Agente do Sindicato
+roles-antag-syndicate-agent-objective = Complete seus objetivos sem ser pego.
 
-roles-antag-generic-free-agent-name = Free Agent
+roles-antag-initial-infected-name = Paciente Zero
+roles-antag-initial-infected-objective = Assim que você se transformar, infecte o máximo de tripulantes possíveis.
 
-roles-antag-generic-team-antagonist-name = Team Antagonist
+roles-antag-zombie-name = Zumbi
+roles-antag-zombie-objective = Transforme o máximo de humanos possíveis em zumbis.
 
-roles-antag-generic-silicon-antagonist-name = Silicon Antagonist
+roles-antag-suspicion-innocent-name = Inocente
+roles-antag-suspicion-innocent-objective = Descubra e elimine todos os traidores.
 
-## Goob - replaced Syndicate agent with Traitor
-roles-antag-syndicate-agent-name = Traitor
-roles-antag-syndicate-agent-objective = Complete your objectives without being caught.
+roles-antag-suspicion-suspect-name = Suspeito
+roles-antag-suspicion-suspect-objective = Mate os inocentes.
 
-roles-antag-syndicate-agent-sleeper-name = Syndicate sleeper agent
-## Goob - replaced Syndicate agent with Traitor
-roles-antag-syndicate-agent-sleeper-objective = A form of traitor that can activate at any point in the middle of the shift.
+roles-antag-nuclear-operative-commander-name = Comandante de Operação Nuclear
+roles-antag-nuclear-operative-commander-objective = Lidere o seu time para a destruição da estação.
 
-roles-antag-initial-infected-name = Initial Infected
-roles-antag-initial-infected-objective = Once you turn, infect as many other crew members as possible.
+roles-antag-nuclear-operative-agent-name = Operativo Nuclear Médico
+roles-antag-nuclear-operative-agent-objective = Cuide da sua equipe de Operadores Nucleares com medicamentos.
 
-roles-antag-zombie-name = Zombie
-roles-antag-zombie-objective = Turn as many humans as possible into zombies.
+roles-antag-nuclear-operative-name = Operativo Nuclear
+roles-antag-nuclear-operative-objective = Encontre o disco nuclear e exploda a estação.
 
-roles-antag-nuclear-operative-commander-name = Nuclear operative commander
-roles-antag-nuclear-operative-commander-objective = Lead your team to the destruction of the station.
+roles-antag-subverted-silicon-name = Silício Subvertido
+roles-antag-subverted-silicon-objective = Siga suas novas leis e seja mau com a estação.
 
-roles-antag-nuclear-operative-agent-name = Nuclear operative corpsman
-roles-antag-nuclear-operative-agent-objective = The medic of the nuclear operative team. Heal your team to victory!
+roles-antag-space-ninja-name = Ninja Espacial
+roles-antag-space-ninja-objective = Use sua furtividade para sabotar a estação, principalmente nos fios elétricos.
 
-roles-antag-nuclear-operative-name = Nuclear operative
-roles-antag-nuclear-operative-objective = Find the nuke disk and blow up the station.
+role-antag-thief-name = Ladrão
+role-antag-thief-objective= Adicione alguma propriedade do NT à sua coleção pessoal sem usar violência.
 
-roles-antag-subverted-silicon-name = Subverted silicon
-roles-antag-subverted-silicon-objective = Follow your new laws and do bad unto the station.
+roles-antag-fugitive-name = Fugitivo
+roles-antag-fugitive-description = Sobreviva. Escape.
 
-roles-antag-space-ninja-name = Space Ninja
-roles-antag-space-ninja-objective = Use your stealth to sabotage the station, nom on electrical wires.
-
-roles-antag-paradox-clone-name = Paradox Clone
-roles-antag-paradox-clone-objective = A freak space-time anomaly has teleported you into another reality! Now you have to find your counterpart and kill and replace them.
-
-roles-antag-pirate-name = Pirate
-
-roles-antag-thief-name = Thief
-roles-antag-thief-objective = Add some NT property to your personal collection without using violence.
-
-roles-antag-dragon-name = Space Dragon
-roles-antag-dragon-objective = Create a carp army to take over this quadrant.
+role-antag-terminator-name = Exterminador
+role-antag-terminator-objective = Mate o alvo a todo custo, o futuro depende disso.
 
 roles-antag-mothership-core-name = Xenoborg Core
 roles-antag-mothership-core-objective = Use your xenoborgs to create even more xenoborgs.
 
 roles-antag-xenoborg-name = Xenoborg
 roles-antag-xenoborg-objective = Help the mothership create more xenoborgs.
+
+roles-antag-paradox-clone-name = Paradox Clone
+roles-antag-paradox-clone-objective = A freak space-time anomaly has teleported you into another reality! Now you have to find your counterpart and kill and replace them.

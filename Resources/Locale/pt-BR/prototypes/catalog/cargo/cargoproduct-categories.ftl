@@ -4,21 +4,22 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cargoproduct-category-name-armory = Armory
-cargoproduct-category-name-atmospherics = Atmospherics
-cargoproduct-category-name-cargo = Cargo
-cargoproduct-category-name-circuitboards = Circuitboards
-cargoproduct-category-name-emergency = Emergency
-cargoproduct-category-name-engineering = Engineering
-cargoproduct-category-name-food = Food
-cargoproduct-category-name-fun = Fun
-cargoproduct-category-name-hydroponics = Hydroponics
+cargoproduct-category-name-armory = Arsenal
+cargoproduct-category-name-atmospherics = Atmos
+cargoproduct-category-name-cargo = Logística
+cargoproduct-category-name-circuitboards = Placas de Circuito
+cargoproduct-category-name-emergency = Emergência
+cargoproduct-category-name-engineering = Engenharia
+cargoproduct-category-name-food = Alimentos
+cargoproduct-category-name-fun = Diversão
+cargoproduct-category-name-hydroponics = Hidropônica
 cargoproduct-category-name-instruments = Instruments
 cargoproduct-category-name-janitorial = Janitorial
-cargoproduct-category-name-livestock = Livestock
-cargoproduct-category-name-materials = Materials
-cargoproduct-category-name-medical = Medical
-cargoproduct-category-name-science = Science
-cargoproduct-category-name-security = Security
-cargoproduct-category-name-service = Service
-cargoproduct-category-name-space = Space
+cargoproduct-category-name-livestock = Gado
+cargoproduct-category-name-materials = Materiais
+cargoproduct-category-name-medical = Medicinal
+cargoproduct-category-name-science = Epistemologia
+cargoproduct-category-name-security = Segurança
+cargoproduct-category-name-service = Serviço
+cargoproduct-category-name-shuttle = Nave
+cargoproduct-category-name-space = Espaço

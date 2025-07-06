@@ -1,60 +1,58 @@
-shuttle-pilot-start = Piloting ship
-shuttle-pilot-end = Stopped piloting
+shuttle-pilot-start = Pilotando nave
+shuttle-pilot-end = Parou de pilotar
 
-shuttle-console-in-ftl = Currently in FTL
-shuttle-console-mass = Too large to FTL
-shuttle-console-prevent = You are unable to pilot this ship
+shuttle-console-in-ftl = Atualmente em FTL
+shuttle-console-mass = Muito grande para FTL
+shuttle-console-prevent = Você não pode pilotar essa nave
 
 # NAV
 
 shuttle-console-display-label = Display
 
-shuttle-console-position = Position:
+shuttle-console-position = Posição:
+shuttle-console-orientation = Orientação:
+shuttle-console-linear-velocity = Velocidade linear:
+shuttle-console-angular-velocity = Velocidade angular:
 shuttle-console-position-value = {$X}, {$Y}
-shuttle-console-orientation = Orientation:
 shuttle-console-orientation-value  = {$angle}
-shuttle-console-linear-velocity = Linear velocity:
-shuttle-console-linear-velocity-value = {$X}, {$Y}
-shuttle-console-angular-velocity = Angular velocity:
 shuttle-console-angular-velocity-value = {$angularVelocity}
+shuttle-console-linear-velocity-value = {$X}, {$Y}
 
-shuttle-console-unknown = Unknown
+shuttle-console-unknown = Desconhecido
 shuttle-console-iff-label = {$name} ({$distance}m)
-shuttle-console-exclusion = Exclusion area
+shuttle-console-exclusion = Zona de exclusão
 
-shuttle-console-nav-settings = Settings
-shuttle-console-nav-legend = Legend
-shuttle-console-nav-other-dock = External Docks
-shuttle-console-nav-cargo-dock = Cargo Docks
-shuttle-console-nav-arrivals-dock = Arrivals Docks
-shuttle-console-iff-toggle = Show IFF
+shuttle-console-nav-settings = Configurações
+shuttle-console-iff-toggle = Mostrar IFF
+shuttle-console-dock-toggle = Mostrar docas
 
-# MAP
+# MAPA
 
-shuttle-console-ftl-label = FTL Status
-shuttle-console-ftl-state-Available = Available
-shuttle-console-ftl-state-Starting = Starting
-shuttle-console-ftl-state-Travelling = Travelling
-shuttle-console-ftl-state-Arriving = Arriving
-shuttle-console-ftl-state-Cooldown = Cooldown
-shuttle-console-ftl-state-Invalid = Invalid
+shuttle-console-ftl-label = Estado do FTL
+shuttle-console-ftl-state-Available = Disponível
+shuttle-console-ftl-state-Starting = Iniciando
+shuttle-console-ftl-state-Travelling = Viajando
+shuttle-console-ftl-state-Arriving = Chegando
+shuttle-console-ftl-state-Cooldown = Resfriando
+shuttle-console-ftl-state-Invalid = Indisponível
 
-shuttle-console-map-settings = Settings
+shuttle-console-map-settings = Configurações
 shuttle-console-ftl-button = FTL
-shuttle-console-map-rebuild = Scan for objects
-shuttle-console-map-beacons = Show beacons
+shuttle-console-map-rebuild = Escanear objetos
+shuttle-console-map-beacons = Mostrar beacons
 
-shuttle-console-no-signal = No signal
+shuttle-console-no-signal = Sem sinal
 
-shuttle-console-map-objects = Sector objects
+shuttle-console-map-objects = Objetos do setor espacial
 
-# DOCK
-shuttle-console-docked = Docked objects
+# ATRACAGEM
 
-shuttle-console-view = View
-shuttle-console-undock = Undock
-shuttle-console-dock = Dock
-shuttle-console-docks-label = Docks
+shuttle-console-docked = Objetos atracados
 
-shuttle-console-undock-fail = Undocking failed
-shuttle-console-dock-fail = Docking failed
+shuttle-console-view = Visualizar
+shuttle-console-undock = Desatracar
+shuttle-console-dock = Atracar
+shuttle-console-docks-label = Docas
+
+shuttle-console-undock-fail = Falha ao desatracar
+shuttle-console-dock-fail = Falha ao atracar

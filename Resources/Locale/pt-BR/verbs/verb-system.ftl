@@ -19,43 +19,40 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-verb-system-null-server-response = Entity not in view. You should not see this.
+verb-system-waiting-on-server-text = Aguardando no servidor...
+verb-system-null-server-response = Entidade fora de vista. Você não deveria ver isto.
 
 
 # if verbs have a range of targets (e.g., multiple ejectables) you can
 # usually just use Entity.Name. But it is a bit odd when targeting yourself
-verb-self-target-pronoun = Yourself
+verb-self-target-pronoun = Você
 
 
 # verb categories & common verbs. These appear across multiple systems, so they may as well go here.
 
 verb-categories-admin = Admin
 verb-categories-debug = Debug
-verb-categories-examine = Examine
-verb-categories-eject = Eject
-verb-categories-insert = Insert
-verb-categories-buckle = Buckle
-verb-categories-unbuckle = Unbuckle
-verb-categories-rotate = Rotate
-verb-categories-smite = Smite
-verb-categories-tricks = Tricks
-verb-categories-transfer = Set Transfer Amount
-verb-categories-split = Split
-verb-categories-instrument-style = Instrument Style
-verb-categories-channel-select = Channels
-verb-categories-set-sensor = Sensor
-verb-categories-timer = Set Delay
-verb-categories-lever = Lever
-verb-categories-select-type = Select Type
-verb-categories-fax = Set Destination
-verb-categories-power-level = Power Level
-verb-categories-adjust = Adjust
-verb-categories-select-target = Set Target
+verb-categories-examine = Examinar
+verb-categories-eject = Ejetar
+verb-categories-insert = Inserir
+verb-categories-buckle = Afivelar
+verb-categories-unbuckle = Desafivelar
+verb-categories-rotate = Girar
+verb-categories-transfer = Transferir
+verb-categories-split = Dividir
+verb-categories-smite = Castigos
+verb-categories-tricks = Truques
+verb-categories-instrument-style = Alterar Estilo do Instrumento
+verb-categories-channel-select = Canais
+verb-categories-set-sensor = Configurar Sensores
+verb-categories-timer = Escolher Tempo
+verb-categories-lever = Alavancar
+verb-categories-select-type = Escolher Tipo
+verb-categories-fax = Definir destino
+verb-categories-interaction = Interact
 
-verb-common-toggle-light = Toggle light
-verb-common-close = Close
-verb-common-open = Open
-verb-common-close-ui = Close UI
-verb-common-open-ui = Open UI
-verb-common-enter = Enter
-verb-common-exit = Exit
+verb-common-toggle-light = Ligar luz
+verb-common-close = Fechar
+verb-common-open = Abrir
+verb-common-close-ui = Fechar UI
+verb-common-open-ui = Abrir UI

@@ -7,17 +7,17 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 war-declarator-not-working = The device makes beeping noises, but nothing happens...
-war-declarator-ui-header = Declaration of War
-war-declarator-ui-war-button = DECLARE WAR!
-war-declarator-ui-try-war-button = Try to declare war
-war-declarator-conditions-small-crew = There are not enough nuclear operatives to declare war!
-war-declarator-conditions-left-outpost = Shuttle left the syndicate outpost
-war-declarator-conditions-time-out = War declaration time passed
-war-declarator-conditions-ready = Shuttle can leave the outpost!
-war-declarator-conditions-unknown = Unknown
-war-declarator-boost-possible = Able to declare war
-war-declarator-boost-impossible = Unable to declare war
-war-declarator-boost-declared = War declared! Shuttle may be disabled for...
-war-declarator-boost-timer = Time left: {$time} minutes.
-war-declarator-default-message = A syndicate fringe group has declared their intent to utterly destroy station with a nuclear device, and dares the crew to try and stop them.
-war-declarator-message-placeholder = Write a custom declaration of war here...
+war-declarator-ui-header = Declaração de guerra
+war-declarator-ui-war-button = DECLARAR GUERRA!
+war-declarator-ui-try-war-button = Tentar declarar guerra
+war-declarator-conditions-small-crew = Não tem agentes nucleares suficientes para declarar guerra!
+war-declarator-conditions-left-outpost = Nave deixou o posto avançado do sindicato
+war-declarator-conditions-time-out = O tempo da declaração de guerra passou
+war-declarator-conditions-ready = A nave pode sair do posto avançado!
+war-declarator-conditions-unknown = Desconhecido
+war-declarator-boost-possible = Capaz de declarar guerra
+war-declarator-boost-impossible = Incapaz de declarar guerra
+war-declarator-boost-declared = Guerra declarada! Partida do ônibus pode estar desabilitada por...
+war-declarator-boost-timer = Tempo restante: {$time} minutos.
+war-declarator-default-message = Um grupo marginal do sindicato declarou sua intenção de destruir completamente a estação com um dispositivo nuclear e desafia a tripulação a tentar detê-los.
+war-declarator-message-placeholder = Escreva uma declaração de guerra personalizada aqui...

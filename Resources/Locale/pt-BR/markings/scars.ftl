@@ -1,17 +1,17 @@
-marking-ScarEyeRight-scar_eye_right = Right Eye Scar
-marking-ScarEyeRight = Eye Scar (Right)
+marking-ScarEyeRight-scar_eye_right = Cicatriz no Olho Direito
+marking-ScarEyeRight = Cicatriz no Olho (Direito)
 
-marking-ScarEyeLeft-scar_eye_left = Left Eye Scar
-marking-ScarEyeLeft = Eye Scar (Left)
+marking-ScarEyeLeft-scar_eye_left = Cicatriz no Olho Esquerdo
+marking-ScarEyeLeft = Cicatriz no Olho (Esquerdo)
 
-marking-ScarTopSurgeryShort-scar_top_surgery_short = Top Surgery Scar
-marking-ScarTopSurgeryShort = Top Surgery Scar (Short)
+marking-ScarTopSurgeryShort-scar_top_surgery_short = Cicatriz de Cirurgia
+marking-ScarTopSurgeryShort = Cicatriz de Cirurgia (Curta)
 
 marking-ScarTopSurgeryLong-scar_top_surgery_long = Top Surgery Scar
 marking-ScarTopSurgeryLong = Top Surgery Scar (Long)
 
-marking-ScarChest-scar_chest = Chest Scar
-marking-ScarChest = Chest Scar
+marking-ScarChest-scar_chest = Cicatriz no Peito
+marking-ScarChest = Cicatriz no Peito
 
 marking-ScarNeck-scar_neck = Neck Scar
 marking-ScarNeck = Neck Scar

@@ -4,5 +4,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-land-mine-triggered = You step on the { $mine }!
+land-mine-triggered = Você pisa em cima de uma { $mine }!
 land-mine-verb-begin = Arm

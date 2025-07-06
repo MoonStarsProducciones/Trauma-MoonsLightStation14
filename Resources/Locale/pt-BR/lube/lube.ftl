@@ -7,9 +7,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-lube-success = {CAPITALIZE(THE($target))} has been covered in lube!
-lubed-name-prefix = lubed {$baseName}
-lube-failure = Can't cover {THE($target)} in lube!
-lube-slip = {CAPITALIZE(THE($target))} slips out of your hands!
-lube-verb-text = Apply Lube
-lube-verb-message = Lube an object
+lube-success = {THE($target)} foi coberto de lubrificante!
+lubed-name-prefix = {$target} lubrificado
+lube-failure = Não é possível cobrir {THE($target)} com lubrificante!
+lube-slip = {THE($target)} escorrega das suas mãos!
+lube-verb-text = Aplicar Lubrificante
+lube-verb-message = Lubrifica um objeto

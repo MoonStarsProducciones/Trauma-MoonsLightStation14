@@ -5,6 +5,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-geiger-item-control-status = [color={$color}]{$rads} rads[/color]
-geiger-item-control-disabled = Disabled
-geiger-component-examine = Current radiation: [color={$color}]{$rads} rads[/color]
+geiger-item-control-status = Radiação: [color={$color}]{$rads} cGy[/color]
+geiger-item-control-disabled = Desativado
+geiger-component-examine = Radiação atual: [color={$color}]{$rads} cGy[/color]

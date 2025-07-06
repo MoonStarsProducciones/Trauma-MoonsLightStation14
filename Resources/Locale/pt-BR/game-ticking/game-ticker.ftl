@@ -1,48 +1,49 @@
-game-ticker-restart-round = Restarting round...
-game-ticker-start-round = The round is starting now...
-game-ticker-start-round-cannot-start-game-mode-fallback = Failed to start {$failedGameMode} mode! Defaulting to {$fallbackMode}...
-game-ticker-start-round-cannot-start-game-mode-restart = Failed to start {$failedGameMode} mode! Restarting round...
-game-ticker-start-round-invalid-map = Selected map {$map} is inelligible for gamemode {$mode}. Gamemode may not function as intended...
-game-ticker-unknown-role = Unknown
-game-ticker-delay-start = Round start has been delayed for {$seconds} seconds.
-game-ticker-pause-start = Round start has been paused.
-game-ticker-pause-start-resumed = Round start countdown is now resumed.
-game-ticker-player-join-game-message = Welcome to Space Station 14! If this is your first time playing, be sure to read the game rules, and don't be afraid to ask for help in LOOC (local OOC) or OOC (usually available only between rounds).
-game-ticker-get-info-text = Hi and welcome to [color=white]Space Station 14![/color]
-                            The current round is: [color=white]#{$roundId}[/color]
-                            The current player count is: [color=white]{$playerCount}[/color]
-                            The current map is: [color=white]{$mapName}[/color]
-                            The current game mode is: [color=white]{$gmTitle}[/color]
+game-ticker-restart-round = Reiniciando a partida...
+game-ticker-start-round = A partida está começando agora...
+game-ticker-start-round-cannot-start-game-mode-fallback = Falha ao iniciar o modo {$failedGameMode}! Mudando para {$fallbackMode}...
+game-ticker-start-round-cannot-start-game-mode-restart = Falha ao iniciar o modo {$failedGameMode}! Reiniciando a partida...
+game-ticker-start-round-invalid-map = O mapa selecionado {$map} é inelegível para o modo de jogo {$mode}. O Gamemode pode não funcionar como pretendido...
+game-ticker-unknown-role = Desconhecido
+game-ticker-delay-start = O inicio da partida foi atrasado para {$seconds} segundos.
+game-ticker-pause-start = A inicialização de partida foi pausada.
+game-ticker-pause-start-resumed = A contagem para iniciar a partida voltou.
+game-ticker-player-join-game-message = Boas vindas à estação espacial 14! Se essa é sua primeira vez jogando, se certifique de ler as regras do jogo, e não tenha vergonha de pedir ajuda no chat OOC.
+game-ticker-get-info-text = Olá e bem-vindo a [color=white]Estação Andrômeda![/color]
+                            A rodada atual é: [color=white]#{$roundId}[/color]
+                            A quantidade de jogadores conectados é: [color=white]{$playerCount}[/color]
+                            O mapa atual é: [color=white]{$mapName}[/color]
+                            O modo de jogo atual é: [color=white]{$gmTitle}[/color]
                             >[color=yellow]{$desc}[/color]
-game-ticker-get-info-preround-text = Hi and welcome to [color=white]Space Station 14![/color]
-                            The current round is: [color=white]#{$roundId}[/color]
-                            The current player count is: [color=white]{$playerCount}[/color] ([color=white]{$readyCount}[/color] {$readyCount ->
-                                [one] is
-                                *[other] are
-                            } ready)
-                            The current map is: [color=white]{$mapName}[/color]
-                            The current game mode is: [color=white]{$gmTitle}[/color]
+game-ticker-get-info-preround-text = Olá e bem-vindo a [color=white]Estação Andrômeda![/color]
+                            A rodada atual é: [color=white]#{$roundId}[/color]
+                            A quantidade de jogadores conectados é: [color=white]{$playerCount}[/color] ([color=white]{$readyCount}[/color] {$readyCount ->
+                                [one] está
+                                *[other] estão
+                            } pronto(s))
+                            O mapa atual é: [color=white]{$mapName}[/color]
+                            O modo de jogo atual é: [color=white]{$gmTitle}[/color]
                             >[color=yellow]{$desc}[/color]
-game-ticker-no-map-selected = [color=yellow]Map not yet selected![/color]
-game-ticker-player-no-jobs-available-when-joining = When attempting to join to the game, no jobs were available.
+game-ticker-no-map-selected = [color=red]Nenhum mapa selecionado![/color]
+game-ticker-player-no-jobs-available-when-joining = Ao tentar entrar no jogo, nenhum trabalho está disponível.
+game-ticker-welcome-to-the-station = Bem-vindo à estação, Tripulação, aproveitem sua estadia!
 
 # Displayed in chat to admins when a player joins
-player-join-message = Player {$name} joined.
-player-first-join-message = Player {$name} joined for the first time.
+player-join-message = O jogador {$name} entrou.
+player-first-join-message = O jogador {$name} entrou pela primeira vez.
 
 # Displayed in chat to admins when a player leaves
-player-leave-message = Player {$name} left.
+player-leave-message = O jogador {$name} saiu.
 
-latejoin-arrival-announcement = {$character} ({$job}) has arrived at the station!
+latejoin-arrival-announcement = {$character} ({$job}) chegou a estação!
 latejoin-arrival-announcement-special = {$job} {$character} on deck!
-latejoin-arrival-sender = Station
-latejoin-arrivals-direction = A shuttle transferring you to your station will arrive shortly.
-latejoin-arrivals-direction-time = A shuttle transferring you to your station will arrive in {$time}.
+latejoin-arrival-sender = Estação
+latejoin-arrivals-direction = Uma nave pra te transferir pra a sua estação chegará em breve.
+latejoin-arrivals-direction-time = Uma nave pra te transferir para a sua estação chegará em {$time}.
 latejoin-arrivals-dumped-from-shuttle = A mysterious force prevents you from leaving with the arrivals shuttle.
 latejoin-arrivals-teleport-to-spawn = A mysterious force teleports you off the arrivals shuttle. Have a safe shift!
 
-preset-not-enough-ready-players = Can't start {$presetName}. Requires {$minimumPlayers} players but we have {$readyPlayersCount}.
-preset-no-one-ready = Can't start {$presetName}. No players are ready.
+preset-not-enough-ready-players = Não é possível começar {$presetName}. Esse modo requer {$minimumPlayers} jogadores mas temos apenas {$readyPlayersCount}.
+preset-no-one-ready = Não é possível começar {$presetName}. Nenhum jogador pronto.
 
 game-run-level-PreRoundLobby = Pre-round lobby
 game-run-level-InRound = In round

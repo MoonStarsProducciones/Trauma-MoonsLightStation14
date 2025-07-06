@@ -11,9 +11,9 @@
 
 ## UI
 
-reagent-grinder-bound-user-interface-instant-button = INSTANT
-reagent-grinder-bound-user-interface-cook-time-label = COOK TIME
-reagent-grinder-component-cannot-put-entity-message = You can't put this in the reagent grinder!
+reagent-grinder-bound-user-interface-instant-button = INTANTÂNEO
+reagent-grinder-bound-user-interface-cook-time-label = TEMPO DE COZIMENTO
+reagent-grinder-component-cannot-put-entity-message = Você não pode colocar isso no moedor de reagentes!
 
 grinder-menu-title = All-In-One Grinder 3000
 reagent-grinder-component-upgrade-work-time = Tempo de trabalho
@@ -21,7 +21,7 @@ reagent-grinder-component-upgrade-storage = Armazenamento
 
 grinder-menu-title = Triturador Tudo-Em-Um 3000
 grinder-menu-grind-button = Triturar
-grinder-menu-juice-button = Espremer
+grinder-menu-juice-button = Suco
 grinder-menu-auto-label = Modo automático
 grinder-menu-auto-button-off = Desligado
 grinder-menu-manual-label = Modo manual

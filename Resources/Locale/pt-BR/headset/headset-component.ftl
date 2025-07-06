@@ -4,22 +4,24 @@ chat-radio-message-wrap = [color={$color}]{$channel} [bold]{$name}[/bold] {$verb
 chat-radio-message-wrap-bold = [color={$color}]{$channel} [bold]{$name}[/bold] {$verb}, { chat-manager-speech-double-quote-begin }[/color][color={$languageColor}][font="{$fontType}" size={$fontSize}][bold]{$message}[/bold][/font][/color][color={$color}]{ chat-manager-speech-double-quote-end }[/color]
 # Einstein Engines - Languages end
 
-examine-headset-default-channel = Use {$prefix} for the default channel ([color={$color}]{$channel}[/color]).
+examine-headset-default-channel = Use o prefixo {$prefix} para o canal default ([color={$color}]{$channel}[/color]).
 
-chat-radio-common = Common
-chat-radio-centcom = CentComm
-chat-radio-command = Command
-chat-radio-engineering = Engineering
-chat-radio-medical = Medical
-chat-radio-science = Science
-chat-radio-security = Security
-chat-radio-service = Service
-chat-radio-supply = Supply
-chat-radio-syndicate = Syndicate
-chat-radio-freelance = Freelance
+chat-radio-common = Comum
+chat-radio-centcom = CentCom
+chat-radio-command = Comando
+chat-radio-engineering = Engenharia
+chat-radio-medical = Médico
+chat-radio-science = Epistemia
+chat-radio-security = Segurança
+chat-radio-service = Serviço
+chat-radio-supply = Carga
+chat-radio-syndicate = Sindicato
+chat-radio-freelance = Autônomo
+chat-radio-justice = Justiça
+chat-radio-prison = Prisão
 
 # not headset but whatever
-chat-radio-handheld = Handheld
-chat-radio-binary = Binary
+chat-radio-handheld = Portátil
+chat-radio-binary = Binário
 chat-radio-xenoborg = Xenoborg
-chat-radio-mothership = Mothership
+chat-radio-mothership = Nave Mãe

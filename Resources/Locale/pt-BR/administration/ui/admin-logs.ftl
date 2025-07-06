@@ -8,25 +8,25 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 admin-logs-title = Admin Logs Panel
-admin-logs-count = Showing {$showing}/{$total} of {$round}
+admin-logs-count = Mostrando {$showing}/{$total} de {$round}
 admin-logs-export = Export
-admin-logs-pop-out = Pop Out
+admin-logs-pop-out = Abrir fora
 
 # Round
 admin-logs-round = Round{" "}
-admin-logs-reset = Reset
-admin-logs-reset-with-id = Reset Round (#{$id})
+admin-logs-reset = Resetar
+admin-logs-reset-with-id = Resetar Rodada (#{$id})
 
 # Types
-admin-logs-search-types-placeholder = Search Types (OR)
-admin-logs-select-all = All
-admin-logs-select-none = None
+admin-logs-search-types-placeholder = Procurar Tipos (OR)
+admin-logs-select-all = Tudo
+admin-logs-select-none = Nenhum
 
 # Players
-admin-logs-search-players-placeholder = Search Players (OR)
-admin-logs-include-non-player = Include Non-players
+admin-logs-search-players-placeholder = Procurar Jogadores (OR)
+admin-logs-include-non-player = Incuir não-jogadores
 
 # Logs
-admin-logs-search-logs-placeholder = Search Logs
-admin-logs-refresh = Refresh
-admin-logs-next = Next
+admin-logs-search-logs-placeholder = Procurar Logs
+admin-logs-refresh = Recarregar
+admin-logs-next = Próximo

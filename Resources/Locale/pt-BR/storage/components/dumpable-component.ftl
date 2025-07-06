@@ -4,7 +4,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-dump-verb-name = Dump out on ground
-dump-disposal-verb-name = Dump out into {$unit}
-dump-placeable-verb-name = Dump out onto {$surface}
+dump-verb-name = Despejar no chão
+dump-disposal-verb-name = Despejar dentro do(a) {$unit}
+dump-placeable-verb-name = Despejar em cima do(a) {$surface}
 dump-smartfridge-verb-name = Restock into {$unit}

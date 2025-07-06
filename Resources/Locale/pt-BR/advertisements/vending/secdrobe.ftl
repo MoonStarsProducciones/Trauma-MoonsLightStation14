@@ -5,8 +5,8 @@
 #
 # SPDX-License-Identifier: MIT
 
-advertisement-secdrobe-1 = Beat perps in style!
-advertisement-secdrobe-2 = It's red so you can't see the blood!
-advertisement-secdrobe-3 = You have the right to be fashionable!
-advertisement-secdrobe-4 = Now you can be the fashion police you always wanted to be!
-advertisement-secdrobe-5 = The best shade of red, TOTALLY not, like, the same shade as what Syndicates use!
+advertisement-secdrobe-1 = Pegue bandidos com estilo!
+advertisement-secdrobe-2 = É vermelho para esconder o sangue!
+advertisement-secdrobe-3 = Você tem o direito de ficar trajado!
+advertisement-secdrobe-4 = Seja o policial mau que você sempre quis ser!
+advertisement-secdrobe-5 = O melhor tom de vermelho, totalmente não, tipo, a mesma sombra que o que os sindicatos usam!

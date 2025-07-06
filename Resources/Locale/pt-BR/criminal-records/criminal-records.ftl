@@ -1,8 +1,8 @@
-criminal-records-console-window-title = Criminal Records Computer
-criminal-records-console-records-list-title = Crewmembers
-criminal-records-console-select-record-info = Select a record.
-criminal-records-console-no-records = No records found!
-criminal-records-console-no-record-found = No record was found for the selected person.
+criminal-records-console-window-title = Computador de Registros Criminais
+criminal-records-console-records-list-title = Tripulantes
+criminal-records-console-select-record-info = Selecione um registro.
+criminal-records-console-no-records = Nenhum registro encontrado!
+criminal-records-console-no-record-found = Nenhum registro foi encontrado para a pessoa selecionada.
 criminal-records-console-flavor-left = Arrest first! Ask questions later.
 criminal-records-console-flavor-right = v2.1
 criminal-records-console-show-all = All
@@ -10,56 +10,57 @@ criminal-records-console-show-all = All
 ## Status
 
 criminal-records-console-status = Status
-criminal-records-status-none = None
-criminal-records-status-wanted = Wanted
-criminal-records-status-detained = Detained
-criminal-records-status-suspected = Suspect
-criminal-records-status-discharged = Discharged
-criminal-records-status-paroled = Paroled
-criminal-records-status-hostile = Hostile
-criminal-records-status-eliminated = Eliminated
+criminal-records-status-none = Nenhum
+criminal-records-status-wanted = Procurado
+criminal-records-status-detained = Detido
+criminal-records-status-suspected = Suspeito
+criminal-records-status-discharged = Liberado
+criminal-records-status-paroled = sob Condicional
+criminal-records-status-hostile = Hostil
+criminal-records-status-eliminated = Eliminado
 
 criminal-records-console-wanted-reason = Wanted Reason
 criminal-records-console-suspected-reason = Suspected Reason
 
-criminal-records-console-reason = Reason
-criminal-records-console-reason-placeholder = For example: {$placeholder}
+criminal-records-console-wanted-reason = [color=gray]Procurado por[/color]
+criminal-records-console-suspected-reason = [color=gray]Razão de Suspeita[/color]
+criminal-records-console-reason-placeholder = Por exemplo: {$placeholder}
 
 ## Crime History
 
-criminal-records-console-crime-history = Crime History
-criminal-records-history-placeholder = Write the crime here
-criminal-records-no-history = This crewmember's record is spotless.
-criminal-records-add-history = Add
-criminal-records-delete-history = Delete
+criminal-records-console-crime-history = Histórico Criminal
+criminal-records-history-placeholder = Escreva o crime aqui
+criminal-records-no-history = O registro deste membro da tripulação é impecável.
+criminal-records-add-history = Adicionar
+criminal-records-delete-history = Deletar
 
-criminal-records-permission-denied = Permission denied
+criminal-records-permission-denied = Permissão negada
 
 ## Security channel notifications
 
-criminal-records-console-wanted = {$name} ({$job}) was made wanted by {$officer} for: {$reason}.
-criminal-records-console-not-wanted = {$officer} cleared the wanted status of {$name} ({$job}).
-criminal-records-console-suspected = {$officer} marked {$name} ({$job}) as suspicious because of: {$reason}
-criminal-records-console-not-suspected = {$name} ({$job}) has been cleared of suspicion by {$officer}.
-criminal-records-console-detained = {$name} ({$job}) has been detained by {$officer}.
-criminal-records-console-released = {$name} ({$job}) has been released by {$officer}.
-criminal-records-console-paroled = {$name} ({$job}) has been released on parole by {$officer}.
-criminal-records-console-not-parole = {$officer} cleared the parole status of {$name} ({$job}).
+criminal-records-console-wanted = {$name} é procurado por {$officer} por: {$reason}.
+criminal-records-console-suspected = O {$officer} qualificou {$name} como suspeito em decorrência de: {$reason}
+criminal-records-console-not-suspected = {$name} foi desqualificado como suspeito.
+criminal-records-console-detained = {$name} foi detido por {$officer}.
+criminal-records-console-released = {$name} foi solto por {$officer}.
+criminal-records-console-not-wanted = {$name} não é mais procurado.
+criminal-records-console-paroled = {$name} foi liberado sob condicional por {$officer}.
+criminal-records-console-not-parole = {$name} já não está mais em liberdade condicional.
 criminal-records-console-hostile = {$name} ({$job}) was marked as hostile by {$officer} for: {$reason}.
 criminal-records-console-not-hostile = {$name} ({$job}) no longer marked as hostile by {$officer}.
 criminal-records-console-eliminated = {$name} ({$job}) was marked as eliminated by {$officer}.
 criminal-records-console-not-eliminated = {$name} ({$job}) no longer marked as eliminated by {$officer}.
-criminal-records-console-unknown-officer = <unknown>
+criminal-records-console-unknown-officer = <oficial desconhecido>
 
 ## Filters
 
-criminal-records-filter-placeholder = Input text and press "Enter"
-criminal-records-name-filter = Name
-criminal-records-prints-filter = Fingerprints
+criminal-records-filter-placeholder = Entre com texto e pressione "Enter"
+criminal-records-name-filter = Nome
+criminal-records-prints-filter = Impressões digitais
 criminal-records-dna-filter = DNA
 criminal-records-job-filter = Job
 criminal-records-species-filter = Species
 
 ## Arrest auto history lines
-criminal-records-console-auto-history = ARRESTED: {$reason}
-criminal-records-console-unspecified-reason = <unspecified reason>
+criminal-records-console-auto-history = PRESO: {$reason}
+criminal-records-console-unspecified-reason = <razão não especificada>

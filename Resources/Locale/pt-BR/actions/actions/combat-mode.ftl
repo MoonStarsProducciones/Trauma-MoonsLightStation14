@@ -10,5 +10,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-action-popup-combat-disabled = Combat mode disabled
-action-popup-combat-enabled = Combat mode enabled
+action-popup-combat-disabled = Modo de combate desligado.
+action-popup-combat-enabled = Modo de combate ligado!

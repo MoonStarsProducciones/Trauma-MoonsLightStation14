@@ -6,7 +6,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-magic-mirror-component-activate-user-has-no-hair = You can't have any hair!
+magic-mirror-window-title = Espelho Mágico
+magic-mirror-component-activate-user-has-no-hair = Você não tem cabelo!
 
 magic-mirror-add-slot-self = You're giving yourself some hair.
 magic-mirror-remove-slot-self = You're removing some of your hair.

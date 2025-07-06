@@ -5,16 +5,16 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-radio-jammer-component-on-use = The jammer is now {$state}.
-radio-jammer-component-on-state = on
-radio-jammer-component-off-state = off
+radio-jammer-component-on-use = O bloqueador de rádio agora está {$state}.
+radio-jammer-component-on-state = ligado
+radio-jammer-component-off-state = desligado
 
-radio-jammer-component-examine-on-state = The light is currently [color=darkgreen]on[/color].
-radio-jammer-component-examine-off-state = The light is currently [color=darkred]off[/color].
+radio-jammer-component-examine-on-state = O led está [color=darkgreen]ligado[/color].
+radio-jammer-component-examine-off-state = O led está [color=darkred]desligado[/color].
 
-radio-jammer-component-setting-high = High
-radio-jammer-component-setting-medium = Medium
-radio-jammer-component-setting-low = Low
+radio-jammer-component-setting-high = Alta
+radio-jammer-component-setting-medium = Média
+radio-jammer-component-setting-low = Baixa
 
 radio-jammer-component-set-message-high = The jammer is now operating at high power.
 radio-jammer-component-set-message-medium = The jammer is now operating at medium power.

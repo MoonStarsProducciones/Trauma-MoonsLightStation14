@@ -9,19 +9,19 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-zombie-title = Zombies
-zombie-description = The undead have been unleashed on the station! Work with the crew to survive the outbreak and secure the station.
+zombie-title = Zumbis
+zombie-description = Os mortos-vivos foram soltos na estação! Trabalhe com seus colegas para contem o surto e sobreviver.
 
 zombieteors-title = Zombieteors
 zombieteors-description = The undead have been unleashed on the station amid a cataclysmic meteor shower! Work with your fellow crew and do your best to survive!
 
-zombie-not-enough-ready-players = Not enough players readied up for the game! There were {$readyPlayersCount} players readied up out of {$minimumPlayers} needed. Can't start Zombies.
-zombie-no-one-ready = No players readied up! Can't start Zombies.
+zombie-not-enough-ready-players = Jogadores prontos insuficientes! Tinham {$readyPlayersCount} jogadores prontos de {$minimumPlayers} necessários. Não pode começar o modo Zumbis.
+zombie-no-one-ready = Nenhum jogador pronto! Não pode começar o modo Zumbis.
 
-zombie-patientzero-role-greeting = You are an initial infected. Get supplies and prepare for your eventual transformation. Your goal is to overtake the station while infecting as many people as possible.
-zombie-healing = You feel a stirring in your flesh
-zombie-infection-warning = You feel the zombie virus take hold
-zombie-infection-underway = Your blood begins to thicken
+zombie-patientzero-role-greeting = Você é um primeiro infectado. Obtenha suprimentos e prepare-se para sua eventual transformação. Seu objetivo é ultrapassar a estação enquanto infecta o maior número possível de pessoas.
+zombie-healing = Você sente a sua carne se agitar
+zombie-infection-warning = Você sente que o vírus zumbi toma conta
+zombie-infection-underway = Seu sangue começa a engrossar
 
 ## goob edit
 zombie-start-announcement = Confirmed outbreak of level 7 biological hazard aboard the station. Security can no longer protect you. Make your way to protected areas and hole up for evacuation.
@@ -31,19 +31,19 @@ zombie-alone = You feel entirely alone.
 zombie-shuttle-call = We have detected that the undead have overtaken the station. Dispatching an emergency shuttle to collect remaining personnel.
 
 zombie-round-end-initial-count = {$initialCount ->
-    [one] There was one initial infected:
-    *[other] There were {$initialCount} initial infected:
+    [one] Teve um infectado inicial:
+    *[other] Tiveram {$initialCount} infectados iniciais:
 }
-zombie-round-end-user-was-initial = - [color=plum]{$name}[/color] ([color=gray]{$username}[/color]) was one of the initial infected.
+zombie-round-end-user-was-initial = - [color=plum]{$name}[/color] ([color=gray]{$username}[/color]) foi um dos infectados inciais.
 
-zombie-round-end-amount-none = [color=green]All of the zombies were eradicated![/color]
-zombie-round-end-amount-low = [color=green]Almost all of the zombies were exterminated.[/color]
-zombie-round-end-amount-medium = [color=yellow]{$percent}% of the crew were turned into zombies.[/color]
-zombie-round-end-amount-high = [color=crimson]{$percent}% of the crew were turned into zombies.[/color]
-zombie-round-end-amount-all = [color=darkred]The entire crew became zombies![/color]
+zombie-round-end-amount-none = [color=green]Todos os zumbis foram erradicados![/color]
+zombie-round-end-amount-low = [color=green]Quase todos os zumbis foram erradicados.[/color]
+zombie-round-end-amount-medium = [color=yellow]{$percent}% da tripulação virou zumbi.[/color]
+zombie-round-end-amount-high = [color=crimson]{$percent}% da tripulação virou zumbi.[/color]
+zombie-round-end-amount-all = [color=darkred]A população toda virou zumbi![/color]
 
 zombie-round-end-survivor-count = {$count ->
-    [one] There was only one survivor left:
-    *[other] There were only {$count} survivors left:
+    [one] Teve apenas um sobrevivente restante:
+    *[other] Tiveram apena {$count} sobreviventes restantes:
 }
-zombie-round-end-user-was-survivor = - [color=White]{$name}[/color] ([color=gray]{$username}[/color]) survived the outbreak.
+zombie-round-end-user-was-survivor = - [color=White]{$name}[/color] ([color=gray]{$username}[/color]) sobreviveu o surto.

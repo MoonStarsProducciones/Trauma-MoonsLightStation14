@@ -5,4 +5,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-rule-traitor-added-announcement = Hello crew! Have a good shift!
+rule-traitor-added-announcement = Olá tripulação! Tenham um bom expediente!

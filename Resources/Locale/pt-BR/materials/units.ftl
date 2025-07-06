@@ -6,26 +6,26 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # sheets of steel
-materials-unit-sheet = sheet
+materials-unit-sheet = folha
 # bars of gold
 materials-unit-bar = bar
 # planks of wood
-materials-unit-plank = plank
+materials-unit-plank = prancha
 # rolls of cloth
-materials-unit-roll = roll
+materials-unit-roll = rolo
 # pieces of biomass
-materials-unit-piece = piece
+materials-unit-piece = pedaço
 # bunches of bananium
-materials-unit-bunch = bunch
+materials-unit-bunch = cacho
 # slabs of meat
-materials-unit-slab = slab
+materials-unit-slab = pedaços
 # webs of silk
-materials-unit-web = web
+materials-unit-web = teias
 # chunks of ore
-materials-unit-chunk = chunk
+materials-unit-chunk = pedaço
 # boll of cotton
 materials-unit-boll = boll
 
 # bills of spesos... not very good but they are not (yet?) used for crafting anything
 # also the lathe/atm would need bigger denominations to output...
-materials-unit-bill = bill
+materials-unit-bill = conta

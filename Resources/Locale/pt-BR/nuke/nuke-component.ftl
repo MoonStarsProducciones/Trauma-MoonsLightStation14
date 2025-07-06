@@ -16,37 +16,37 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-nuke-component-cant-anchor-floor = The anchoring bolts fail to lock into the floor!
+nuke-component-cant-anchor-floor = Os parafusos de ancoragem não conseguem travar no chão!
 nuke-component-cant-anchor-toggle = The nuclear authentication disk is required to toggle the floor bolts!
-nuke-component-announcement-sender = Nuclear Fission Explosive
-nuke-component-announcement-armed = Attention! The station's self-destruct mechanism has been engaged {$location}. {$time} seconds until detonation. If this was made in error, the mechanism may still be disarmed.
-nuke-component-announcement-unarmed = The station's self-destruct was deactivated! Have a nice day!
-nuke-component-announcement-send-codes = Attention! Self-destruction codes have been sent to designated fax machines.
-nuke-component-doafter-warning = You start fiddling with wires and knobs in order to disarm the nuke.. This may take a while.
+nuke-component-announcement-sender = Explosivo de fissão nuclear
+nuke-component-announcement-armed = Atenção! O mecanismo de auto-destruição da estação foi ativado. {$time} segundos até a detonação.
+nuke-component-announcement-unarmed = A auto-destruição da estação foi desativada! Tenham um bom dia!
+nuke-component-announcement-send-codes = Atenção! Os códigos de auto-destruição foram enviados aos consoles de comunicação.
+nuke-component-doafter-warning = Você começa a mexer nos fios para desativar a nuke.. Isto pode demorar um pouco.
 
 nuke-disk-component-microwave = The disk sparks and fizzles a bit, but seems mostly unharmed?
 
 # Nuke UI
-nuke-user-interface-title = Nuclear Fission Explosive
-nuke-user-interface-arm-button = ARM
-nuke-user-interface-disarm-button = DISARM
-nuke-user-interface-anchor-button = ANCHOR
-nuke-user-interface-eject-button = EJECT
+nuke-user-interface-title = Explosivo de fissão nuclear
+nuke-user-interface-arm-button = LIGAR
+nuke-user-interface-disarm-button = DESARMAR
+nuke-user-interface-anchor-button = ANCORAR
+nuke-user-interface-eject-button = EJETAR
 
 ## Upper status
-nuke-user-interface-first-status-device-locked = DEVICE LOCKED
-nuke-user-interface-first-status-input-code = INPUT CODE
-nuke-user-interface-first-status-input-time = INPUT TIME
-nuke-user-interface-first-status-device-ready = DEVICE READY
-nuke-user-interface-first-status-device-armed = DEVICE ARMED
-nuke-user-interface-first-status-device-cooldown = DEACTIVATED
-nuke-user-interface-status-error = ERROR
+nuke-user-interface-first-status-device-locked = DISPOSITIVO TRANCADO
+nuke-user-interface-first-status-input-code = INSIRA CÓDIGO
+nuke-user-interface-first-status-input-time = INSIRA TEMPO
+nuke-user-interface-first-status-device-ready = DISPOSITIVO PRONTO
+nuke-user-interface-first-status-device-armed = DISPOSITIVO ATIVO
+nuke-user-interface-first-status-device-cooldown = DESATIVADO
+nuke-user-interface-status-error = ERRO
 
 ## Lower status
-nuke-user-interface-second-status-await-disk = AWAIT DISK
-nuke-user-interface-second-status-time = TIME: {$time}
-nuke-user-interface-second-status-current-code = CODE: {$code}
-nuke-user-interface-second-status-cooldown-time = WAIT: {$time}
+nuke-user-interface-second-status-await-disk = ESPERANDO DISCO
+nuke-user-interface-second-status-time = TEMPO: {$time}
+nuke-user-interface-second-status-current-code = CÓDIGO: {$code}
+nuke-user-interface-second-status-cooldown-time = ESPERE: {$time}
 
 ## Nuke labels
 nuke-label-nanotrasen = NT-{$serial}
@@ -58,11 +58,11 @@ nuke-label-syndicate = SYN-{$serial}
 # Codes
 nuke-codes-message = [color=red]TOP SECRET![/color]
 nuke-codes-list = {$name} code: {$code}
-nuke-codes-fax-paper-name = nuclear authentication codes
+nuke-codes-fax-paper-name = códigos de autenticação nuclear
 
 # Nuke disk slot
-nuke-slot-component-slot-name-disk = Disk
+nuke-slot-component-slot-name-disk = Disco
 
 ## Examine
-nuke-examine-armed = Hey uh, why's that [color=red]red light[/color] blinking?
-nuke-examine-exploding = Yeah... I think it's too late buddy.
+nuke-examine-armed = Aí, porquê aquela [color=red]luz vermelha[/color] tá piscando?
+nuke-examine-exploding = É... Acho que é tarde demais, amigo.

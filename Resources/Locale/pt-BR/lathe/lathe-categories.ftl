@@ -1,11 +1,12 @@
 # Generic
-lathe-category-circuitry = Circuitry
-lathe-category-clothing = Clothing
-lathe-category-lights = Lights
-lathe-category-machines = Machines
-lathe-category-parts = Parts
-lathe-category-tools = Tools
-lathe-category-weapons = Weapons
+lathe-category-ammo = Munições
+lathe-category-circuitry = Circuitos
+lathe-category-lights = Luzes
+lathe-category-mechs = Mechas
+lathe-category-parts = Peças
+lathe-category-robotics = Robóticos
+lathe-category-tools = Ferramentas
+lathe-category-weapons = Armas
 
 # Biogen
 lathe-category-food = Food

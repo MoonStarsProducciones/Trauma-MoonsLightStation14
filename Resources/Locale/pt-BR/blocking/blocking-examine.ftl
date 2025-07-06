@@ -1,9 +1,9 @@
 # Blocking examines
-blocking-examinable-verb-text = Protection
-blocking-examinable-verb-message = Examine the protection values.
-blocking-fraction = It blocks up to [color=lightblue]{$value}%[/color] of incoming damage and:
-blocking-coefficient-value = - It blocks up to [color=lightblue]{$value}%[/color] [color=yellow]{$type}[/color] damage.
-blocking-reduction-value = - It blocks up to [color=lightblue]{$value}[/color] [color=yellow]{$type}[/color] damage.
+blocking-examinable-verb-text = Proteção
+blocking-examinable-verb-message = Examinar os valores de proteção.
+blocking-fraction = Bloqueia [color=lightblue]{$value}%[/color] de dano dos danos recebidos e:
+blocking-coefficient-value = - Toma [color=lightblue]{$value}%[/color] de dano de [color=yellow]{$type}[/color].
+blocking-reduction-value = - Toma [color=lightblue]{$value}[/color] menos dano de [color=yellow]{$type}[/color].
 
 # Shown when examining the shield. Each entry represents the shield's health condition
 comp-shield-damaged-1 = It looks fully intact.

@@ -12,15 +12,16 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-character-setup-gui-character-setup-label = Character setup
+character-setup-gui-character-setup-label = Configurar Personagem
 character-setup-gui-character-setup-adminremarks-button = Admin Remarks
 character-setup-gui-character-setup-stats-button = Stats
-character-setup-gui-character-setup-rules-button = Rules
-character-setup-gui-character-setup-close-button = Close
-character-setup-gui-create-new-character-button = Create new slot...
-character-setup-gui-create-new-character-button-tooltip = A maximum of {$maxCharacters} characters are allowed.
-character-setup-gui-character-picker-button-delete-button = Delete
-character-setup-gui-character-picker-button-confirm-delete-button = Confirm
+character-setup-gui-character-setup-rules-button = Regras
+character-setup-gui-character-setup-save-button = Salvar
+character-setup-gui-character-setup-close-button = Fechar
+character-setup-gui-create-new-character-button = Criar novo personagem
+character-setup-gui-create-new-character-button-tooltip = Um máximo de {$maxCharacters} personagens são permitidos.
+character-setup-gui-character-picker-button-delete-button = Deletar
+character-setup-gui-character-picker-button-confirm-delete-button = Confirmar
 
 character-setup-gui-save-panel-title = Unsaved character changes
 character-setup-gui-save-panel-save = Save

@@ -1,6 +1,6 @@
 # User interface
-comms-console-menu-title = Communications Console
-comms-console-menu-announcement-placeholder = Announcement text...
+comms-console-menu-title = Console de Comunicações
+comms-console-menu-announcement-placeholder = Texto do anúncio...
 comms-console-menu-broadcast-placeholder = Broadcast text...
 comms-console-menu-broadcast-bottom-placeholder = Screen bottom line (max 32 characters)
 comms-console-menu-announcement-button = Announce over radio
@@ -22,19 +22,19 @@ comms-console-broadcast-tab-title = Screen
 comms-console-char-limit = {$count}/{$max}
 
 # Popup
-comms-console-permission-denied = Permission denied
-comms-console-shuttle-unavailable = Shuttle is currently unavailable
+comms-console-permission-denied = Permissão recusada
+comms-console-shuttle-unavailable = A nave não está disponível no momento
 comms-console-message-too-long = Message is too long
 comms-console-message-cannot-send = Communications temporarily disabled
 
 # Placeholder values
-comms-console-announcement-sent-by = Sent by
-comms-console-announcement-unknown-sender = Unknown
+comms-console-announcement-sent-by = Enviado por
+comms-console-announcement-unknown-sender = Desconhecido
 
 # Comms console variant titles
-comms-console-announcement-title-station = Communications Console
-comms-console-announcement-title-centcom = Central Command
-comms-console-announcement-title-nukie = Syndicate Nuclear Operative
+comms-console-announcement-title-station = Console de Comunicações
+comms-console-announcement-title-centcom = Central de Comando
+comms-console-announcement-title-nukie = Operativo Nuclear do Sindicato
 comms-console-announcement-title-station-ai = Station AI
 comms-console-announcement-title-wizard = Wizard
 

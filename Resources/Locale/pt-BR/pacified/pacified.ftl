@@ -5,16 +5,17 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
+## Mensagens mostradas aos jogadores Pacificados quando eles tentam praticar violência:
 
-## Messages shown to Pacified players when they try to do violence:
+# Com projéteis:
+pacified-cannot-throw = Não consigo arremessar { THE($projectile) }, isso pode machucar alguém!
+# Com projéteis embutidos:
+pacified-cannot-throw-embed = De jeito nenhum eu poderia arremessar { THE($projectile) }, isso poderia machucar alguém!
+# Com projéteis que derramam líquido:
+pacified-cannot-throw-spill = Eu não posso arremessar { THE($projectile) }, isso poderia derramar coisas desagradáveis em alguém!
+# Com bolas e armadilhas:
+pacified-cannot-throw-snare = Não consigo arremessar { THE($projectile) }, e se alguém tropeçar?!
 
-# With projectiles:
-pacified-cannot-throw = I can't bring myself to throw { THE($projectile) }, that could hurt someone!
-# With embedding projectiles:
-pacified-cannot-throw-embed = No way I could throw { THE($projectile) }, that could get lodged inside someone!
-# With liquid-spilling projectiles:
-pacified-cannot-throw-spill = I can't possibly throw { THE($projectile) }, that could spill nasty stuff on someone!
-
-pacified-cannot-harm-directly = I can't bring myself to hurt { THE($entity) }!
-pacified-cannot-harm-indirect = I can't damage { THE($entity) }, it could hurt someone!
-pacified-cannot-fire-gun = I can't fire { THE($entity) }, it could hurt someone!
+pacified-cannot-harm-directly = Não consigo machucar { THE($entity) }!
+pacified-cannot-harm-indirect = Não posso danificar { THE($entity) }, isso pode machucar alguém!
+pacified-cannot-fire-gun = Não posso disparar { THE($entity) }, isso pode machucar alguém!

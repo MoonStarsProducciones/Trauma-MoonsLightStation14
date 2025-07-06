@@ -6,8 +6,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-station-event-meteor-swarm-start-announcement = Meteors have been detected on collision course with the station.
-station-event-meteor-swarm-end-announcement = The meteor swarm has passed. Please return to your stations.
+station-event-meteor-swarm-start-announcement = Meteoros estão em trajetória de colisão com a estação. Preparem-se para colisão.
+station-event-meteor-swarm-end-announcement = A chuva de meteoros acabou. Por favor retornem para suas estações.
 
 station-event-space-dust-start-announcement = The station is passing through a debris cloud, expect minor damage to external fittings and fixtures.
 station-event-meteor-urist-start-announcement = The station is colliding with an unidentified swarm of debris. Please stay calm and do not listen to them.

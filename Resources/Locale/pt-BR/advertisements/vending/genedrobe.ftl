@@ -6,5 +6,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-genedrobe-1 = Perfect for the mad scientist in you!
-advertisement-genedrobe-2 = Experimenting with monkeys is more fun than you think!
+advertisement-genedrobe-1 = Perfeito para o cientista louco em você!
+advertisement-genedrobe-2 = Experimentar macacos é mais divertido do que você pensa!

@@ -19,5 +19,5 @@ admin-menu-round-tab = Round
 admin-menu-server-tab = Server
 admin-menu-panic-bunker-tab = Panic Bunker
 admin-menu-baby-jail-tab = Baby Jail
-admin-menu-players-tab = Players
-admin-menu-objects-tab = Objects
+admin-menu-players-tab = Jogadores
+admin-menu-objects-tab = Objetos

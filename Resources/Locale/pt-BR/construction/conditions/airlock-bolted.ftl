@@ -7,7 +7,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # AirlockBolted
-construction-examine-condition-airlock-bolt = First, bolt the {$entityName}.
-construction-examine-condition-airlock-unbolt = First, unbolt the {$entityName}.
-construction-step-condition-airlock-bolt = It must be bolted.
-construction-step-condition-airlock-unbolt = It must be unbolted.
+construction-examine-condition-airlock-bolt = Primeiro, ative as trancas de {$entityName}.
+construction-examine-condition-airlock-unbolt = Primeiro, desative as trancas de {$entityName}.
+construction-step-condition-airlock-bolt = Deve estar com as trancas ativadas.
+construction-step-condition-airlock-unbolt = Deve estar com as trancas desativadas.

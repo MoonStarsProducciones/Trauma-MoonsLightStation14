@@ -15,14 +15,14 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-bwoink-user-title = Admin Message
+bwoink-user-title = Mensagens do Admin
 bwoink-admin-title = Admin Help
 
-bwoink-system-starmute-message-no-other-users = *System: Nobody is available to receive your message. Try pinging Game Admins on Discord.
+bwoink-system-starmute-message-no-other-users = *Sistema: Ninguém está ativo para responder sua mensagem. Tente pingar um admin no Discord.
 
 bwoink-system-messages-being-relayed-to-discord =
-    All messages are relayed to game administrators via Discord.
-    Issues may be handled without a response.
+    Sua mensagem foi mandada para admins do Andrômeda pelo discord.
+    Problemas podem ser resolvidos sem uma resposta por uma razão ou outra.
 
 bwoink-system-introductory-message =
     Please describe the issue that you have encountered in detail. Assume that the game administrator who is resolving the problem does not have first-hand knowledge of what has occurred.
@@ -31,9 +31,9 @@ bwoink-system-introductory-message =
     Misuse of this message system may result in disciplinary action.
 
 bwoink-system-typing-indicator = {$players} {$count ->
-[one] is
-*[other] are
-} typing...
+[one] está
+*[other] estão
+} digitando...
 
 admin-ahelp-admin-only = Admin Only
 admin-ahelp-admin-only-tooltip = If checked, then the message won't be visible for the player,

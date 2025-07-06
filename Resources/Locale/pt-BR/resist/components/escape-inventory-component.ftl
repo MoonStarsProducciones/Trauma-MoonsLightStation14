@@ -5,6 +5,6 @@
 #
 # SPDX-License-Identifier: MIT
 
-escape-inventory-component-start-resisting = You start struggling to escape!
-escape-inventory-component-start-resisting-target = Something is struggling to get out of your inventory!
-escape-inventory-component-failed-resisting = Can't escape!
+escape-inventory-component-start-resisting = Você se esforça para escapar!
+escape-inventory-component-start-resisting-target = Algo está se esforçando para sair do seu inventário!
+escape-inventory-component-failed-resisting = Não posso escapar!

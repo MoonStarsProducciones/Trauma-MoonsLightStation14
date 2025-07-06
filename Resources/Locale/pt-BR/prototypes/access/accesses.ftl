@@ -17,53 +17,54 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-id-card-access-level-command = Command
-id-card-access-level-captain = Captain
-id-card-access-level-head-of-personnel = Head of Personnel
-id-card-access-level-cryogenics = Cryogenics
+id-card-access-level-command = Comando
+id-card-access-level-captain = Capitão
+id-card-access-level-head-of-personnel = Chefe dos Funcionários
+id-card-access-level-cryogenics = Criogenia
 id-card-access-level-emergency-shuttle-repeal = E.Shuttle Repeal All
 
-id-card-access-level-head-of-security = Head of Security
-id-card-access-level-security = Security
-id-card-access-level-armory = Armory
+id-card-access-level-head-of-security = Chefe de Segurança
+id-card-access-level-security = Segurança
+id-card-access-level-armory = Arsenal
 id-card-access-level-brig = Brig
-id-card-access-level-detective = Detective
+id-card-access-level-detective = Detetive
 id-card-access-level-genpop-enter = Enter Genpop
 id-card-access-level-genpop-leave = Leave Genpop
 
-id-card-access-level-chief-engineer = Chief Engineer
-id-card-access-level-engineering = Engineering
-id-card-access-level-atmospherics = Atmospherics
+id-card-access-level-chief-engineer = Chefe da Engenharia
+id-card-access-level-engineering = Engenharia
+id-card-access-level-atmospherics = Atmosféricos
 
-id-card-access-level-research-director = Research Director
-id-card-access-level-research = Research
+id-card-access-level-research-director = Diretor de Pesquisa
+id-card-access-level-research = Pesquisa
 
-id-card-access-level-chief-medical-officer = Chief Medical Officer
-id-card-access-level-medical = Medical
-id-card-access-level-chemistry = Chemistry
-id-card-access-level-paramedic = Paramedic
+id-card-access-level-chief-medical-officer = Médico Chefe
+id-card-access-level-medical = Médica
+id-card-access-level-chemistry = Química
+id-card-access-level-paramedic = Paramédico
 
-id-card-access-level-quartermaster = Quartermaster
-id-card-access-level-cargo = Cargo
-id-card-access-level-salvage = Salvage
+id-card-access-level-quartermaster = Intendente de Logística
+id-card-access-level-cargo = Logística
+id-card-access-level-salvage = Salvatagem
 
 id-card-access-level-bar = Bar
-id-card-access-level-kitchen = Kitchen
-id-card-access-level-hydroponics = Hydroponics
-id-card-access-level-service = Service
-id-card-access-level-janitor = Janitor
-id-card-access-level-theatre = Theatre
-id-card-access-level-chapel = Chapel
-id-card-access-level-lawyer = Lawyer
+id-card-access-level-kitchen = Cozinha
+id-card-access-level-hydroponics = Hidropônica
+id-card-access-level-service = Serviço
+id-card-access-level-janitor = Zeladoria
+id-card-access-level-theatre = Teatro
+id-card-access-level-chapel = Capela
+id-card-access-level-lawyer = Advogado
+id-card-access-level-library = Bibliotecário
 
-id-card-access-level-maintenance = Maintenance
+id-card-access-level-maintenance = Manutenção
 
-id-card-access-level-external = External
+id-card-access-level-external = Externo
 
-id-card-access-level-nuclear-operative = Nuclear Operative
-id-card-access-level-syndicate-agent = Syndicate Agent
+id-card-access-level-nuclear-operative = Operativo Nuclear
+id-card-access-level-syndicate-agent = Agente Sindicato
 
-id-card-access-level-central-command = Central Command
+id-card-access-level-central-command = Comando Central
 
 id-card-access-level-wizard = Wizard
 

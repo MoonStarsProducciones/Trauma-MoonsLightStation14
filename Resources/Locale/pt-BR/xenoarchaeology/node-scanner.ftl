@@ -5,6 +5,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
+node-scan-popup = O ID do nó é {$id}
+
 node-scan-tooltip = Scan active nodes
 node-scan-no-data = No active node data found
 node-scan-display-title = Node scanner

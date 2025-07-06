@@ -6,7 +6,7 @@ department-Medical = Médicina
 department-Security = Segurança
 department-Science = Ciência
 department-Specific = Específicos da Estação
-department-CentralCommand = Central Command
+department-CentralCommand = Comando Central
 department-Silicon = Silicon
 
-department-Unknown = Unknown
+department-Unknown = Desconhecido

@@ -6,6 +6,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-action-popup-lay-egg-user = You lay an egg.
-action-popup-lay-egg-others = {CAPITALIZE(THE($entity))} lays an egg.
-action-popup-lay-egg-too-hungry = You need more food before you can lay another egg!
+
+action-popup-lay-egg-user = Você bota um ovo.
+action-popup-lay-egg-others = {CAPITALIZE(THE($entity))} bota um ovo.
+action-popup-lay-egg-too-hungry = Você precisa de mais comida para botar um ovo!

@@ -1,4 +1,4 @@
-health-examinable-carbon-none = There are no obvious wounds to be seen.
+health-examinable-carbon-none = Não tem nenhuma ferida visível.
 
 health-examinable-carbon-Slash-8 = [color=#EFEFEF]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } a superficial cut.[/color]
 health-examinable-carbon-Slash-15 = [color=#CED2D1]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } some small cuts.[/color]

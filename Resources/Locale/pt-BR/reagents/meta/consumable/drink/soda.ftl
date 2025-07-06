@@ -9,41 +9,35 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-reagent-name-cola = Space Cola
-reagent-desc-cola = A sweet, carbonated soft drink.
+reagent-name-cola = refri de cola
+reagent-desc-cola = Um doce e carbonatado refrigerante. Livre de cafeína.
 
-reagent-name-shirley-temple = Shirley Temple
-reagent-desc-shirley-temple = A favorite amongst younger members of the crew.
-
-reagent-name-changeling-sting = Changeling Sting
-reagent-desc-changeling-sting = You take a tiny sip and feel a burning sensation...
+reagent-name-changeling-sting = picada de changeling
+reagent-desc-changeling-sting = Você da um minúsculo gole e sente uma sensação queimante...
 
 reagent-name-dr-gibb = Dr. Gibb
-reagent-desc-dr-gibb = A delicious blend of 42 different flavours.
+reagent-desc-dr-gibb = Uma mistura deliciosa de 42 sabores difirentes.
 
-reagent-name-energy-drink = Red Bool
-reagent-desc-energy-drink = A dose of energy! Nanotrasen is not responsible if you grow avian appendages.
+reagent-name-energy-drink = energético
+reagent-desc-energy-drink = Uma dose de energia! A Nanotransen não é responsável se você crescer apêndices de ave.
 
-reagent-name-grape-soda = grape soda
-reagent-desc-grape-soda = It's Graaaaaape!
+reagent-name-grape-soda = refri de uva
+reagent-desc-grape-soda = Chupa que é de uva!
 
-reagent-name-ice-cream = ice cream
-reagent-desc-ice-cream = It was either this or the microwave, and nobody wants ice cream soup!
+reagent-name-ice-cream = sorvete
+reagent-desc-ice-cream = Era isso ou o micro-ondas, e ninguém quer sopa de sorvete!
 
-reagent-name-lemon-lime = Smite
-reagent-desc-lemon-lime = Tangy lime and lemon soda.
+reagent-name-lemon-lime = refri lima-limão
+reagent-desc-lemon-lime = Refri picante de limão e limão siciliano.
 
-reagent-name-lemon-lime-cranberry = Smite Cranberry
-reagent-desc-lemon-lime-cranberry = Tart cranberry, Christmas, and a hint of lemon and lime.
-
-reagent-name-pwr-game = PWR Game
-reagent-desc-pwr-game = The only drink with the PWR that true gamers crave. When a gamer talks about gamerfuel, this is what they're literally referring to.
+reagent-name-pwr-game = Pwr Game
+reagent-desc-pwr-game = A única bebida com o PDR que os verdadeiros gamers almejam. Quando um jogador fala sobre o gamerfuel, isso é o que eles estão se referindo literalmente.
 
 reagent-name-root-beer = root beer
-reagent-desc-root-beer = A very sweet, carbonated drink reminiscent of sarsaparilla. Goes well with ice cream.
+reagent-desc-root-beer = Uma bebida norte-americana carbonatada e muito doce que lembra sarsaparrila. Cai bem com sorvete.
 
 reagent-name-root-beer-float = root beer float
-reagent-desc-root-beer-float = Root beer, but now with ice cream on top. It truly is the magnum opus of Canadian summertime drinks.
+reagent-desc-root-beer-float = Root beer, mas com sorvete no topo. O verdadeiro Magnum Opus do verão canadense.
 
 reagent-name-sol-dry = Sol Dry
 reagent-desc-sol-dry = Sweet ginger soda from outer space!
@@ -51,17 +45,17 @@ reagent-desc-sol-dry = Sweet ginger soda from outer space!
 reagent-name-roy-rogers = Roy Rogers
 reagent-desc-roy-rogers = Solid proof that there IS something known as too sweet.
 
-reagent-name-space-mountain-wind = Space Solar Wind
-reagent-desc-space-mountain-wind = Blows right through you like a solar wind.
+reagent-name-space-mountain-wind = Space Mountain Wind
+reagent-desc-space-mountain-wind = Assopra através de você como um vento espacial.
 
 reagent-name-space-up = Space-Up
-reagent-desc-space-up = Tastes like a hull breach in your mouth.
+reagent-desc-space-up = Tem gosto de uma abertura no casco na sua boca.
 
-reagent-name-starkist = Starkist
-reagent-desc-starkist = A sweet, orange flavored soft drink.
+reagent-name-starkist = starkist
+reagent-desc-starkist = Um refrigerante doce sabor laranja.
 
 reagent-name-fourteen-loko = Fourteen Loko
-reagent-desc-fourteen-loko = A highly processed liquid substance barely-passing intergalatic health standards for a soft drink.
+reagent-desc-fourteen-loko = Uma substânica líquida altamente processada passando por pouco os parâmetros de saúde intergaláticos de um refrigerante.
 
 reagent-name-shamblers-juice = Shambler's Juice
-reagent-desc-shamblers-juice = ~Shake me up some of that Shambler's Juice!~
+reagent-desc-shamblers-juice = ~Agite-me um pouco desse Shambler's Juice!~

@@ -12,8 +12,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-disarm-action-disarmable = {CAPITALIZE(THE($targetName))} is not disarmable!
-disarm-action-popup-message-other-clients = {CAPITALIZE(THE($performerName))} disarmed {THE($targetName)}!
-disarm-action-popup-message-cursor = Disarmed {THE($targetName)}!
-disarm-action-shove-popup-message-other-clients = {CAPITALIZE(THE($performerName))} shoves {THE($targetName)}!
-disarm-action-shove-popup-message-cursor = You shove {THE($targetName)}!
+disarm-action-disarmable = Não é possivél desarmar {THE($targetName)}!
+disarm-action-popup-message-other-clients = {$performerName} falhou em desarmar {$targetName}!
+disarm-action-popup-message-cursor = Você falha em desarmar {$targetName}!
+disarm-action-shove-popup-message-other-clients = {CAPITALIZE(THE($performerName))} empurra {THE($targetName)}!
+disarm-action-shove-popup-message-cursor = Você empurra {THE($targetName)}!

@@ -4,10 +4,10 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-book-text-gaming1 = Can't stay for the game.
-      Engineering want me to keep a close eye on the singularity SMESes.
-      Leaving this so you know what's up.
-      Sorry.
+book-text-gaming1 = Não posso ficar para o jogo.
+      Engenharia quer que eu fique de olho nos SMESes de singularidade.
+      Deixando isso para que você saiba o que está acontecendo.
+      Desculpe.
        - Alexander
 
 book-text-gaming2 = Johny Clowe

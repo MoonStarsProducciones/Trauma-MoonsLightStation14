@@ -1,64 +1,64 @@
 # Command
-job-description-captain = Manage the resources and personnel of the entire station. Work alongside the other heads of staff to ensure the station's crew remain content and productive.
-job-description-ce = Manage the resources and personnel of the Engineering department to ensure the station remains intact, functional, and habitable.
-job-description-cmo = Manage the resources and personnel of the Medical department to ensure the station's crew remain alive and in good health.
-job-description-hop = Manage the resources and personnel of the Service department, and perform general administrative duties. Handle paperwork, perform job transfers, and keep your pet corgi safe.
-job-description-hos = Manage the resources and personnel of the Security department to ensure the station's crew remain safe and law-abiding.
-job-description-qm = Manage the resources and personnel of the Cargo department to ensure the station remains well-supplied and the money keeps flowing.
-job-description-rd = Manage the resources and personnel of the Science department to ensure that research progresses smoothly and the station's silicons function properly.
+job-description-captain = Mantenha a estação funcionando, delegue trabalho aos demais chefes de equipe e exerça sua vontade.
+job-description-ce = Gerencie o departamento de engenharia para garantir que a energia, a atmosfera e o casco estejam em perfeitas condições.
+job-description-cmo = Gerencie os recursos e pessoal do departamento médico para manter a tripulação viva.
+job-description-hop = Lide com a reatribuição de acesso de maneira justa usando seu console de ID, gerencie o departamento de serviço e mantenha Ian seguro.
+job-description-hos = Gerencie sua força de segurança e mantenha-a eficiente, reprima a dissidência e mantenha os outros chefes de equipe seguros.
+job-description-qm = Gerencie os suprimentos da estação e do departamento de carga, mantenha os especialistas em salvatagem trabalhando, garanta que todos os pedidos sejam atendidos e mantenha o fluxo de dinheiro.
+job-description-rd = Gerencie o departamento epistêmico, realizando experimentos, pesquisando tecnologias e estudando artefatos e anomalias.
 
 # Cargo
-job-description-cargotech = Deliver the mail, manage requisition orders, pilot the cargo shuttle to buy and sell goods, and ensure other departments have the supplies they need.
-job-description-salvagespec = Use the salvage magnet to draw in asteroids and debris, process ores and scrap into usable materials, find valuable loot, and fight off dangerous space fauna along the way.
+job-description-cargotech = Lide com requisições e entregas, pilote o transporte de carga até a estação comercial, e trabalhe com outros para ganhar quantias ridículas de dinheiro e depois desperdiçar tudo com apostas.
+job-description-salvagespec = Use o ímã de salvamento para atrair restos e asteroides para saquear e enriquecer a estação, construir uma nave de salvatagem e depois viajar para novos planetas, enquanto luta contra qualquer fauna espacial ao longo do caminho.
 
 # Engineering
-job-description-atmostech = Ensure the station has breathable air, keep the thermo-electric generator running, and synthesize rare gases for the station.
-job-description-engineer = Keep the station's power network online, repair damage to the station, and perform renovations and expansions.
-job-description-technical-assistant = Learn the basics of keeping the station powered and repairing structural damage.
+job-description-atmostech = Otimize a configuração atmosférica da estação e sintetize gases raros para usar ou vender.
+job-description-engineer = Mantenha o motor principal e os painéis solares da estação ativos, otimize a rede de energia e faça reparos de emergência usando seu traje rígido em áreas espaçadas.
+job-description-technical-assistant = Aprenda o básico sobre como gerenciar a energia da estação, bem como consertar o casco da estação.
 
 # Medical
-job-description-chemist = Synthesize medicine, botanical supplies, and any other chemicals the station needs.
-job-description-doctor = Diagnose and treat injured crew, and ensure that cadavers are properly stored in the morgue.
-job-description-intern = Learn the basics of administering medicine, treating injuries, and rescuing injured crew.
-job-description-paramedic = Rescue critically injured crew, make sure they're stable, and transport them to the medbay.
-job-description-psychologist = Provide the crew with emotional support and counseling.
+job-description-chemist = Produza medicamentos para uso dos médicos, pesquise produtos químicos raros e eticamente duvidosos e produza armas de guerra quando os inimigos da estação chegarem.
+job-description-doctor = Diagnostique e cure tripulantes por meio de produtos químicos, medicina avançada e desfibriladores. Certifique-se de que os mortos não apodreçam e que os cadáveres estejam no necrotério.
+job-description-intern = Aprenda o básico sobre administração de medicamentos, produtos químicos básicos e uso de ferramentas médicas.
+job-description-paramedic = Resgate pacientes gravemente feridos por toda a estação, às vezes também fora. Estabilize-os e dê-lhes uma carona até a Medbay!
+job-description-psychologist = Forneça apoio emocional à tripulação traumatizada. Atualmente disponível na Box, Marathon e Origin Station.
 
 # Science
-job-description-research-assistant = Learn the basics of scientific research and technological development.
-job-description-scientist = Research alien artifacts and supernatural anomalies to develop cutting-edge equipment for the station's crew. Build and upgrade cyborgs to perform various tasks across the station.
+job-description-research-assistant = Aprenda o básico sobre como estudar vários artefatos, anomalias e robótica.
+job-description-scientist = Pesquise artefatos alienígenas, desbloqueie novas tecnologias, construa máquinas novas e melhores ao redor da estação e faça tudo funcionar com mais eficiência.
 
 # Security
-job-description-cadet = Learn the basics of investigating crime and arresting criminals.
-job-description-detective = Investigate crime scenes using forensic tools to ensure that the guilty party is found.
-job-description-security = Uphold the law, arrest criminals, and ensure that the station does not fall into disarray.
-job-description-warden = Guard the Security department, manage the armory, and ensure that all prisoners are properly charged and serve their sentence without incident.
+job-description-cadet = Aprenda o básico sobre como prender criminosos e gerenciar a prisão. Ouça seus supervisores e sinta-se à vontade para pedir ajuda.
+job-description-detective = Investigue cenas de crimes usando ferramentas forenses, encontre as partes culpadas e fume um pouco.
+job-description-security = Pegue criminosos e inimigos da estação, faça cumprir a lei e garanta que a estação não caia em desordem.
+job-description-warden = Patrulhe o departamento de segurança, certifique-se de que ninguém esteja roubando do arsenal e certifique-se de que todos os prisioneiros sejam processados e soltos quando o tempo acabar.
 
 # Service
-job-description-bartender = Serve drinks and keep the bar lively.
-job-description-botanist = Grow fresh ingredients, medicinal herbs, and other plant-based supplies for the station.
-job-description-chaplain = Preach the good word of your religion, hold services and funerals, and conduct miracles with your holy book.
-job-description-chef = Keep the crew fed, butcher and dispose of dead animals, and help keep the bar lively.
-job-description-clown = Entertain the crew with slapstick routines and terrible jokes, and engage in light rivalry with the mime.
-job-description-janitor = Keep the station clean, recycle garbage into raw materials, and help exterminate vermin.
-job-description-lawyer = Ensure that criminals receive legal representation and fair judgment. Inform the crew of their rights and help organize trials, lawsuits, and settlements.
-job-description-librarian = Keep the library organized. Provide the crew with educational materials, entertaining stories, and tabletop games.
-job-description-mime = Entertain the crew with silent acts of performance art, and engage in light rivalry with the clown.
-job-description-musician = Entertain the crew with your unique musical talents.
-job-description-passenger = Enjoy your stay aboard the station with no obligations!
-job-description-reporter = Inform and entertain the station's crew with wireless cameras and news bulletins.
-job-description-serviceworker = Assist the bar and kitchen with providing sustenance to the crew.
+job-description-bartender = Gerencie o bar e mantenha-o animado, distribua bebidas e ouça as histórias da equipe.
+job-description-botanist = Cultive alimentos para o chef, remédios para a medbay e outras plantas para se manter entretido.
+job-description-chaplain = Pregue a boa palavra de sua divindade e religião, e realize curas espirituais e milagres com sua Bíblia.
+job-description-chef = Mantenha a estação alimentada com uma variedade de alimentos, abata animais mortos para garantir que a amônia não vaze e ajude a manter o bar animado.
+job-description-clown = Entretenha a equipe com elaboradas rotinas pastelão, piadas terríveis e tomates voadores.
+job-description-janitor = Mantenha a estação limpa de qualquer lixo ou perigo de escorregamento e ajude a lidar com infestações de ratos.
+job-description-lawyer = Garanta que cada prisioneiro ou criminoso receba um julgamento e julgamento justos, se necessário.
+job-description-librarian = Gerencie a biblioteca, distribua conhecimento a quem o procura e relate as atividades a bordo da estação.
+job-description-mime = Entretenha a tripulação por meios não vocais e envolva-se com uma leve rivalidade(ou amizade) com o palhaço.
+job-description-musician = Entretenha a equipe com seu talento musical único e adquira novos instrumentos para brincar.
+job-description-passenger = Ajude a estação de várias maneiras, aprenda o básico de diferentes trabalhos.
+job-description-reporter = Entretenha e informe a equipe com seu jornalismo vibrante por meio de câmeras sem fio, rádio e notícias. Atualmente disponível na Bagel Station, Core e Origin.
+job-description-serviceworker = Aprenda o básico sobre bartending, cozinhar e cultivar plantas.
 job-description-tram-driver = Drive around a tram from stop to stop.
 
 # Silicon
-job-description-borg = Use your robotic chassis to perform a wide variety of specialized tasks.
+job-description-borg = Meio-humano, meia-máquina. Siga suas leis, sirva a tripulação e perturbe a equipe epistêmica por atualizações.
 job-description-station-ai = Remotely interface with the station's cameras, airlocks, radio, and other electronic devices from the safety of your core.
 
 # Misc.
-job-description-centcommoff = Act as liaison to the newest state-of-the-art space station in Nanotrasen's fleet.
-job-description-ertchaplain = Ensure that the station's crew have their last rites performed.
-job-description-ertengineer = Ensure that the station has power and clean air.
-job-description-ertjanitor = Ensure that the station is thoroughly cleaned and sterilized.
-job-description-ertleader = Lead the Emergency Response Team to protect and preserve Nanotrasen assets.
-job-description-ertmedic = Ensure that the station's crew have their injuries treated.
-job-description-ertsecurity = Ensure that any threats to the station are eliminated.
+job-description-centcommoff = Atue como embaixador da mais nova estação espacial de última geração da frota da Nanotrasen.
+job-description-engineer = Mantenha o motor principal e os painéis solares da estação ativos, otimize a rede de energia e faça reparos de emergência usando seu traje rígido em áreas espaçadas.
+job-description-ertengineer = Certifique-se de que a estação tenha energia e ar limpo.
+job-description-ertjanitor = Certifique-se de que a estação esteja devidamente limpa - para manter o moral.
+job-description-ertleader = Lidere a Equipe de Resposta a Emergências no tratamento de ameaças aos ativos da Nanotrasen.
+job-description-ertmedic = Garanta que a tripulação da estação seja mantida viva e saudável.
+job-description-ertsecurity = Certifique-se de que quaisquer ameaças ativas à estação sejam eliminadas.
 job-description-visitor = Enjoy your visit to the station!

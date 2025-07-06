@@ -6,7 +6,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-robodrobe-1 = You turn me TRUE, use defines!
-advertisement-robodrobe-2 = 0110001101101100011011110111010001101000011001010111001101101000011001010111001001100101
-advertisement-robodrobe-3 = Steal someone from maintenance and turn them into a robot!
-advertisement-robodrobe-4 = Robotics is fun!
+advertisement-robodrobe-1 = Você deve ter "1" estilo verdadeiro, o verdadeiro estilo !
+advertisement-robodrobe-2 = 01110010011011110111010101110000011000010111001101100001011100010111010101101001
+advertisement-robodrobe-3 = Roube alguém da manutenção e transformá-lo em um robô!
+advertisement-robodrobe-4 = Robótica é divertida!

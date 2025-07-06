@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-construction-step-condition-no-windows-in-tile = There can be no windows in that tile.
+construction-step-condition-no-windows-in-tile = Não pode ter janelas nesse quadrado.

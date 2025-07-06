@@ -3,8 +3,8 @@
 #
 # SPDX-License-Identifier: MIT
 
-anchorable-anchored = Anchored
-anchorable-unanchored = Unanchored
-anchorable-occupied = Tile occupied
+anchorable-anchored = Fixo
+anchorable-unanchored = Solto
+anchorable-occupied = Quadrado Ocupado
 
 anchorable-fail-not-on-station = This can only be anchored on a station!

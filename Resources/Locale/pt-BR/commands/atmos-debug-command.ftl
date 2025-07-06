@@ -4,19 +4,19 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-atvrange-desc = Sets the atmos debug range (as two floats, start [red] and end [blue])
-cmd-atvrange-help = Usage: {$command} <start> <end>
-cmd-atvrange-error-start = Bad float START
-cmd-atvrange-error-end = Bad float END
-cmd-atvrange-error-zero = Scale cannot be zero, as this would cause a division by zero in AtmosDebugOverlay.
+cmd-atvrange-desc = Define o intervalo de depuração do atmos (como dois pontos flutuantes, início [vermelho] e fim [azul])
+cmd-atvrange-help = Uso: {$command} <start> <end>
+cmd-atvrange-error-start = Número Flutuante inválido START
+cmd-atvrange-error-end = Número Flutuante inválido END
+cmd-atvrange-error-zero = A escala não pode ser zero, pois isso causaria uma divisão por zero no AtmosDebugOverlay.
 
-cmd-atvmode-desc = Sets the atmos debug mode. This will automatically reset the scale.
-cmd-atvmode-help = Usage: {$command} <TotalMoles/GasMoles/Temperature> [<gas ID (for GasMoles)>]
-cmd-atvmode-error-invalid = Invalid mode
-cmd-atvmode-error-target-gas = A target gas must be provided for this mode.
-cmd-atvmode-error-out-of-range = Gas ID not parsable or out of range.
-cmd-atvmode-error-info = No further information is required for this mode.
+cmd-atvmode-desc = DefineV o modo de depuração do atmos. Isso redefinirá automaticamente a escala.
+cmd-atvmode-help = Uso: {$command} <TotalMoles/GasMoles/Temperature> [<gas ID (for GasMoles)>]
+cmd-atvmode-error-invalid = Modo inválido
+cmd-atvmode-error-target-gas = Um gás alvo deve ser fornecido para este modo.
+cmd-atvmode-error-out-of-range = ID do gás não analisável ou fora do intervalo.
+cmd-atvmode-error-info = Nenhuma informação adicional é necessária para este modo.
 
-cmd-atvcbm-desc = Changes from red/green/blue to greyscale
-cmd-atvcbm-help = Usage: {$command} <true/false>
-cmd-atvcbm-error = Invalid flag
+cmd-atvcbm-desc = Mudanças de vermelho/verde/azul para escala de cinza
+cmd-atvcbm-help = Uso: {$command} <true/false>
+cmd-atvcbm-error = flag inválida

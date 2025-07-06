@@ -3,11 +3,9 @@ names-ai-dataset-2 = 16-20
 names-ai-dataset-3 = 512k
 
 # Ought to be enough for anybody
-names-ai-dataset-4 = 640k
-
-names-ai-dataset-5 = "790"
-names-ai-dataset-6 = Adaptive Mastercomputer
-
+names-ai-dataset-3 = 640kk
+names-ai-dataset-4 = "790"
+names-ai-dataset-5 = Manipulador Adaptativo
 # Named after the famous soundcard
 names-ai-dataset-7 = Adlib
 

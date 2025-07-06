@@ -6,8 +6,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-magivend-1 = Sling spells the proper way with MagiVend!
-advertisement-magivend-2 = Be your own Houdini! Use MagiVend!
+advertisement-magivend-1 = Faça feitiços do jeito certo com MagiVend!
+advertisement-magivend-2 = Seja como houdini! Use MagiVend!
 advertisement-magivend-3 = FJKLFJSD
 advertisement-magivend-4 = AJKFLBJAKL
 advertisement-magivend-5 = >MFW

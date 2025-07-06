@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-admin-erase-popup = {$user} disappears without a trace. You should keep playing as if they never existed.
+admin-erase-popup = {$user} desaparece sem deixar rastro. Você deve continuar jogando como se ele nunca tivesse existido.

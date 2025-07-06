@@ -4,13 +4,13 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-arrivals-enable-hint = Enables arrivals
-cmd-arrivals-disable-hint = Disables arrivals
+cmd-arrivals-enable-hint = Ativa chegadas
+cmd-arrivals-disable-hint = Desativa chegadas
 
-cmd-arrivals-returns = Set arrivals returns to {$value}.
-cmd-arrivals-returns-hint = Toggles allowing players to return via arrivals.
+cmd-arrivals-returns = Configura chegadas para {$value}.
+cmd-arrivals-returns-hint = Ativa ou desativa permitir que jogadores voltem chegadas.
 
 cmd-arrivals-invalid = Invalid arg supplied.
 
-cmd-arrivals-force-hint = Forces players to arrive.
-cmd-arrivals-forced = Forced {$uid} to arrive to the station.
+cmd-arrivals-force-hint = Força jogadores a chegarem.
+cmd-arrivals-forced = Forçou {$uid} a chegar à estação.

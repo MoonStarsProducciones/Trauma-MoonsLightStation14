@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-effect-sleepy = You feel a bit sleepy.
+effect-sleepy = Você se sente um pouco sonolento.

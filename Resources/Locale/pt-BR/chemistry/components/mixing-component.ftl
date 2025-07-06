@@ -17,7 +17,7 @@ mixing-verb-holy = abençoar
 
 ## Entity
 
-default-mixing-success = You mix the {$mixed} with the {$mixer}
-bible-mixing-success = You bless the {$mixed} with the {$mixer}
+default-mixing-success = Você mistura o {$mixed} com o {$mixer}
+bible-mixing-success = Você abençoa o {$mixed} com o {$mixer}
 spoon-mixing-success = You stir the {$mixed} with the {$mixer}
 handheld-centrifuge-success = You seperate chemicals in the {$mixed}

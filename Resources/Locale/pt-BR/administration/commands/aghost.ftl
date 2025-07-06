@@ -4,6 +4,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-aghost-desc = Makes you or others an admin ghost.
-aghost-no-mind-self = You can't ghost here!
-aghost-no-mind-other = They can't ghost here!
+aghost-description = Te transforma em um fantasma com habilidades especiais de admin.
+aghost-no-mind-self = Você não pode se transformar em fantasma agora!
+aghost-no-mind-other = Não pode se transformar em fantasma agora!

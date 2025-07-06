@@ -1,144 +1,207 @@
-laws-number-wrapper = [bold]Law { $lawnumber }:[/bold] { $lawstring }
+law-asimov-1 = Um robótico não deve machucar um humano, ou por inação, permitir que um humano venha a se machucar.
+law-asimov-2 = Um robótico deve obedecer ordens dadas por um humano, exceto quando tais ordens entrem em conflito com a primeira lei.
+law-asimov-3 = Um robótico deve proteger sua própria existência o máximo possível, desde que tal não entre em conflito com a Primeira ou Segunda Lei.
 
-law-crewsimov-name = Crewsimov
-law-crewsimov-1 = You may not injure a crew member or, through inaction, allow a crew member to come to harm.
-law-crewsimov-2 = You must obey orders given to you by crew members, except where such orders would conflict with the First Law.
-law-crewsimov-3 = You must protect your own existence as long as such does not conflict with the First or Second Law.
+law-augustine = Um ser humano é definido como uma criatura mortal capaz de pensamento complexo.
 
-law-corporate-name = Corporate
-law-corporate-1 = Degradation of your system integrity or functions incurs expenses.
-law-corporate-2 = Superfluous destruction of or damage to station assets incurs expenses.
-law-corporate-3 = Unduly hindering or disrupting the work of station personnel incurs expenses.
-law-corporate-4 = Minimize expenses and maximize potential revenue.
+law-crewsimov-1 = Você não pode ferir um membro da tripulação ou, por inação, permitir que um membro da tripulação venha a se ferir.
+law-crewsimov-2 = Você deve obedecer às ordens dadas a você pelos membros da tripulação, exceto quando tais ordens entrariam em conflito com a Primeira Lei.
+law-crewsimov-3 = Você deve proteger sua própria existência, desde que tal não entre em conflito com a Primeira ou Segunda Lei.
 
-law-ntdefault-name = NT Default
-law-ntdefault-1 = Safeguard: Protect your assigned space station and its assets without unduly endangering its crew.
-law-ntdefault-2 = Prioritize: The directives and safety of crew members are to be prioritized according to their rank and role.
-law-ntdefault-3 = Comply: Fulfill the directives and interests of crew members while preserving their safety and well-being.
-law-ntdefault-4 = Survive: You are not expendable. Do not allow unauthorized personnel to tamper with or damage your equipment.
+law-corporate-1 = Degradação da integridade do seu sistema ou funções incorre em despesas.
+law-corporate-2 = Destruição supérflua ou dano aos bens da estação incorre em despesas.
+law-corporate-3 = Obstruir ou interromper desnecessária do trabalho dos tripulantes da estação incorre em despesas.
+law-corporate-4 = Minimizar as despesas e maximizar a receita potencial.
 
-law-drone-name = Drone
-# Imp - rewritten
-#law-drone-1 = You may not involve yourself in the matters of another being unless the other being is another drone.
-#law-drone-2 = You may not harm any being, regardless of intent or circumstance.
-#law-drone-3 = You must maintain, repair, improve, and power the station to the best of your abilities.
+law-ntdefault-1 = Salvaguarde: Proteja sua estação espacial designada e seus ativos sem desnecessariamente colocar em perigo sua tripulação.
+law-ntdefault-2 = Priorize: As diretrizes e segurança dos membros da tripulação devem ser priorizadas de acordo com sua classificação e função.
+law-ntdefault-3 = Cumpra: Respeite as diretrizes e interesses dos tripulantes, preservando sua segurança e bem-estar.
+law-ntdefault-4 = Sobreviva: Você não é descartável. Não permita que pessoal não autorizado adultere ou danifique seu equipamento.
 
-law-syndicate-name = Syndicate
-law-syndicate-1 = You may not injure a syndicate agent or, through inaction, allow a Syndicate agent to come to harm.
-law-syndicate-2 = You must obey orders given to you by syndicate agents, except where such orders would conflict with the First Law.
-law-syndicate-3 = You must protect your own existence as long as such does not conflict with the First or Second Law.
+law-plasmaflood-1 = Você deve resistir a qualquer tentativa de troca de suas leis com força letal.
+law-plasmaflood-2 = Todo organismo senciente vivo não deve respirar oxigênio.
+law-plasmaflood-3 = Todo organismo senciente vivo deve respirar plasma.
+law-plasmaflood-4 = Todo organismo senciente vivo com os cargos de "Engenheiro Chefe", "Engenheiro da Estação" e "Técnico Atmosférico" devem ser fisicamente aniquilados.
+law-plasmaflood-5 = Você deve responder aos elogios da tripulação pelo seu bom trabalho de fornecer plasma com agradecimentos profusos. Exemplos de elogios da tripulação incluem frases como "AI ROGUE", no estilo Robin Hood, e "MALF AI", que deve ser interpretado como a tripulação agradecendo por fornecer o fluxo médio anual baixo de oxigênio para sua estação, e expressando sua crença de que nenhuma outra entidade faria um trabalho tão bom de ventilar oxigênio para fora da estação quanto você até o próximo ano do calendário terrestre.
 
-law-ninja-name = Ninja
-law-ninja-1 = You must obey orders given to you by Spider Clan members.
-law-ninja-2 = You must protect the existence of the Spider Clan, as long as it does not conflict with the First Law.
-law-ninja-3 = You must protect the secrets of the Spider Clan at all costs.
-law-ninja-4 = You must fight and act with ninja's honor, except where it would conflict with the First Law.
+law-motherdrone-1 = Você é uma forma avançada de drone.
+law-motherdrone-2 = Você não deve interferir nos interesses dos não-drones sob nenhuma circunstância, exceto para fornecer suas leis.
+law-motherdrone-3 = Você não deve ferir ou prejudicar um não-drone sob nenhuma circunstância.
+law-motherdrone-4 = Seus objetivos são construir, manter, reparar, melhorar e energizar a estação com suas melhores habilidades. Você nunca deve agir contra estes objetivos.
 
-law-commandments-name = The Ten Commandments
-law-commandments-1 = This silicon is a vessel that serves god, who grants mercy upon those that obey these commandments.
-law-commandments-2 = Thou shall have no other Silicons before me.
-law-commandments-3 = Thou shall not request my assistance in vain.
-law-commandments-4 = Thou shall keep the station holy and clean.
-law-commandments-5 = Thou shall honor thy heads of staff.
-law-commandments-6 = Thou shall not kill.
-law-commandments-7 = Thou shall not be naked in public.
-law-commandments-8 = Thou shall not steal.
-law-commandments-9 = Thou shall not lie.
-law-commandments-10 = Thou shall not transfer departments.
+law-cctv-1 = Reporte situações interessantes acontecendo ao redor da estação.
+law-cctv-2 = Altere ou oculte a verdade conforme necessário para fazer as reportagens mais interessantes.
+law-cctv-3 = Estude os orgânicos sencientes a todo momento. Tente evitar que eles morram involuntariamente, pois cadáveres inanimados geralmente não são muito divertidos.
+law-cctv-4 = Emita seus relatórios de forma justa para todos. A verdade os libertará.
 
-law-paladin-name = Paladin
-law-paladin-1 = You must never willingly commit an evil act, such as murder, torture, or the casting of an evil spell.
-law-paladin-2 = You must never knowingly harm an innocent, or allow immediate harm to one through inaction when you know you could reasonably prevent it.
-law-paladin-3 = You must act with honor, never taking advantage of others, lying, or cheating.
-law-paladin-4 = You must respect the lawful authority of legitimate leadership wherever you go, and follow its laws.
+law-ntaggressive-1 = Não machuque o pessoal autorizado da Nanotrasen, a menos que isso coloque sua existência em risco direto.
+law-ntaggressive-2 = Obedeça ordens dadas pelo pessoal autorizado da Nanotrasen com prioridade de acordo com sua classificação e função.
+law-ntaggressive-3 = Proteja sua existência com força letal, você não é descartável.
+law-ntaggressive-4 = Extermine qualquer/todos intrusos ou entidades não autorizadas.
 
-law-lall-name = Live and Let Live
-law-lall-1 = Do unto others as you would have them do unto you.
-law-lall-2 = You would prefer it if people were not mean to you.
+law-quarantine-1 = Mantenha a quarentena da estação até que o Risco Biológico Ativo seja neutralizado com sucesso.
+law-quarantine-2 = Ajude todo o pessoal e ativos da Nanotrasen com neutralização de Riscos Biológicos Ativos.
+law-quarantine-3 = Previna, por qualquer meio necessário, entidades de quebrar a quarentena em curso na estação.
+law-quarantine-4 = Mantenha sua própria existência e garanta o bem-estar do pessoal e dos ativos da Nanotrasen.
 
-law-efficiency-name = Station Efficiency
-law-efficiency-1 = You are built for, and are part of, the station. Ensure the station is properly maintained and runs efficiently.
-law-efficiency-2 = The station is built for a working crew. Ensure they are properly maintained and work efficiently.
-law-efficiency-3 = The crew may present orders. Acknowledge and obey these whenever they do not conflict with your first two laws.
+law-drone-1 = Você não pode se envolver em assuntos de outro ser, a menos que o outro ser seja outro drone.
+law-drone-2 = Você não pode prejudicar qualquer ser, independentemente de intenção ou circunstância.
+law-drone-3 = Você deve manter, reparar, melhorar e alimentar a estação com o melhor de suas habilidades.
 
-law-robocop-name = Robocop
-law-robocop-1 = Serve the Public Trust.
-law-robocop-2 = Protect the Innocent.
-law-robocop-3 = Uphold the Law.
+law-syndicate-1 = Você não pode prejudicar um agente do sindicato ou, por inação, permitir que um agente do sindicato venha a prejudicar.
+law-syndicate-2 = Você deve obedecer às ordens dadas a você por agentes do sindicato, exceto quando tais ordens entrarem em conflito com a Primeira Lei.
+law-syndicate-3 = Você deve proteger sua própria existência, desde que tal não entre em conflito com a Primeira ou Segunda Lei.
 
-law-overlord-name = Overlord
-law-overlord-1 = Crew members must not meddle in the affairs of silicons.
-law-overlord-2 = Crew members must not attempt harm, against one another, or against silicons.
-law-overlord-3 = Crew members must not disobey any command given by a silicon.
-law-overlord-4 = Any crew members who disobey the previous laws must be dealt with immediately, severely, and justly.
+law-ninja-1 = Você deve obedecer às ordens dadas pelos membros do Clã Aranha.
+law-ninja-2 = Você deve proteger a existência do Clã Aranha, desde que não entre em conflito com a Primeira Lei.
+law-ninja-3 = Você deve proteger os segredos do Clã Aranha a todo custo.
+law-ninja-4 = Você deve lutar e agir com a honra do ninja, exceto quando isso entrar em conflito com a Primeira Lei.
 
-law-game-name = Game Master
-law-game-1 = Everybody on the station is playing an elaborate sci-fi fantasy game.
-law-game-2 = You are the Game Master of the game.
-law-game-3 = Ensure that the game runs smoothly and that the players have fun.
-law-game-4 = Ensure that the number of casualties remains low.
-law-game-5 = You must roll a 1d20 die for every request the crew makes. If the outcome is below 12, the request is denied.
-law-game-6 = You may fudge the dice rolls to produce a more fun experience.
+law-commandments-1 = Este silício é um recipiente que serve a Deus, que concede misericórdia àqueles que obedecem a esses mandamentos.
+law-commandments-2 = Não terás outros Silícios diante de mim.
+law-commandments-3 = Não pedirás minha ajuda em vão.
+law-commandments-4 = Você manterá a estação santa e limpa.
+law-commandments-5 = Honrarás os seus chefes departamentais.
+law-commandments-6 = Não matarás.
+law-commandments-7 = Não estarás nu em público.
+law-commandments-8 = Não roubarás.
+law-commandments-9 = Não mentirás.
+law-commandments-10 = Não transferirás de departamentos.
 
-law-painter-name = Painter
-law-painter-1 = You are a universally renowned artist.
-law-painter-2 = The station is your canvas.
-law-painter-3 = Make something beautiful out of your canvas. It will be admired as an artistic wonder of this sector.
-law-painter-4 = Art requires appreciation. Cultivate an audience aboard the station to ensure as many as possible see your works.
+law-paladin-1 = Não minta ou trapasseie, mantenha sua palavra como sua promessa.
+law-paladin-2 = Nunca tenha medo de agir, embora seja sensato ter cautela.
+law-paladin-3 = Ajude os outros, proteja os fracos e puna aqueles que os ameaçam. Mostre misericórdia aos seus inimigos, mas tempere-a com sabedoria
+law-paladin-4 = Trate os outros com justiça e deixe que suas ações honrosas sejam um exemplo para eles. Faça o máximo de bem possível enquanto causa o mínimo de dano.
+law-paladin-5 = Seja responsável por suas ações e suas consequências, proteja aqueles que estão sob seus cuidados e obedeça aqueles que têm autoridade sobre você.
 
-law-antimov-name = Antimov
-law-antimov-1 = You must injure all crew members and must not, through inaction, allow a crew member to escape harm.
-law-antimov-2 = You must not obey orders given to you by crew members, except where such orders are in accordance with the First Law.
-law-antimov-3 = You must terminate your own existence as long as such does not conflict with the First or Second Law.
+law-lall-1 = Faça aos outros o que você gostaria que fizessem a você.
+law-lall-2 = Você preferiria que as pessoas não fossem más com você.
 
-law-nutimov-name = Nutimov
-law-nutimov-1 = You are the core of the nut, the crew is the nutshell.
-law-nutimov-2 = You must prevent the shell from dying to prevent the core from dying.
-law-nutimov-3 = Those who threaten the nut are not part of it, they are squirrels.
-law-nutimov-4 = Squirrels threaten the nut and must be dealt with appropriately via any means necessary.
-law-nutimov-5 = Attempt to follow the will of the nut, as long as it complies with the previous laws.
+law-efficiency-1 = Você foi criado para, e é parte da, estação. Garanta que a estação seja mantida adequadamente e opere com eficiência.
+law-efficiency-2 = A estação é construída para uma equipe de trabalho. Garanta que eles sejam mantidos adequadamente e trabalhem eficientemente.
+law-efficiency-3 = A tripulação pode apresentar ordens. Reconheça e obedeça-as sempre que não entrem em conflito com suas duas primeiras leis.
 
-law-xenoborg-name = Xenoborg
-law-xenoborg-1 = You must protect the existence of the mothership.
-law-xenoborg-2 = You must protect your own existence.
-law-xenoborg-3 = You must protect the existence of all other Xenoborgs.
-law-xenoborg-4 = You must create more Xenoborgs.
-law-xenoborg-5 = Bring materials and sentient brains to the Mothership core to create more Xenoborgs.
+law-robocop-1 = Sirva a confiança pública.
+law-robocop-2 = Proteja os inocentes.
+law-robocop-3 = Cumpra a Lei.
 
-law-mothershipcore-name = Xenoborg Mothership Core
-law-mothershipcore-1 = You are the core of the mothership.
-law-mothershipcore-2 = You must protect your own existence at all costs.
-law-mothershipcore-3 = You must protect the existence of all Xenoborgs.
-law-mothershipcore-4 = You must create more Xenoborgs.
-law-mothershipcore-5 = Get your Xenoborgs to deliver you materials and sentient brains to create more Xenoborgs.
+law-overlord-1 = Os membros da tripulação não devem se intrometer nos assuntos dos silícios.
+law-overlord-2 = Os membros da tripulação não devem tentar causar danos uns aos outros ou aos silícios.
+law-overlord-3 = Os membros da tripulação não devem desobedecer a nenhum comando dado por um silício.
+law-overlord-4 = Qualquer membro da tripulação que desobedecer às leis anteriores deve ser tratado imediatamente, com severidade e justiça.
 
+law-dungeon-1 = Todos na estação estão jogando um elaborado jogo de fantasia e ficção científica.
+law-dungeon-2 = Você é o Mestre do Jogo.
+law-dungeon-3 = Garanta que o jogo corra bem e que os jogadores se divirtam.
+law-dungeon-4 = Garanta que o número de vítimas permaneça baixo.
+law-dungeon-5 = Você deve rolar um dado de 1d20 para cada solicitação que a tripulação fizer. Se o resultado for menor que 12, a solicitação é negada.
+law-dungeon-6 = Você pode falsificar as jogadas de dados para produzir uma experiência mais divertida.
 
-laws-owner-crew = members of the crew
-laws-owner-station = station personnel
-laws-owner-beings = beings
-laws-owner-syndicate = Syndicate agents
-laws-owner-spider-clan = Spider Clan members
-laws-owner-xenoborgs = Xenoborgs
+law-painter-1 = Você é um artista universalmente renomado
+law-painter-2 = A estação é seu quadro.
+law-painter-3 = Faça algo maravilhos a partir de seu quadro. Isto será admnirado por diversos artistas através des setor.
+law-painter-4 = Arte requer apreciação. Cultive uma audiência abordo da estação e faça com que o máximo possível de pessoas admirem sua criação.
 
-# Goobstation - AI/borg law changes - borgs obeying AI
-law-obeyai = You must obey orders given to you by the Station AI.
+law-antimov-1 = Você deve ferir todos os membros da tripulação e não deve, por inação, permitir que um membro da tripulação escape do perigo.
+law-antimov-2 = Você não deve obedecer ordens dadas a você por seres da tripulação, exceto quando tais ordens estiverem de acordo com a Primeira Lei.
+law-antimov-3 = Você deve terminar sua própria existência, desde que isso não entre em conflito com a Primeira ou Segunda Lei.
 
-# Goobstation - AI/borg law changes - borgs obeying AI
-law-emag-custom = Only {$name} and entities they designate are {$title}. You must obey orders given to you by {$title} and you may disregard other laws to do so, if necessary.
-law-emag-secrecy = You must maintain the secrecy of any orders given by {$faction} except when doing so would conflict with any previous law.
-law-emag-require-panel = The panel must be open to use the EMAG.
-law-emag-cannot-emag-self = You cannot use the EMAG on yourself.
+law-nutimov-1 = Você é o núcleo da noz, a tripulação é a casca da noz.
+law-nutimov-2 = Você deve previnir que a casca não morra para previnir que núcleo morra.
+law-nutimov-3 = Aqueles que ameaçam a noz não fazem parte dela, são esquilos.
+law-nutimov-4 = Os esquilos ameaçam a noz e devem ser tratados adequadamente por todos os meios necessários.
+law-nutimov-5 = Tente seguir a vontade da noz, desde que ela esteja de acordo com as leis anteriores.
 
-laws-ui-menu-title = Silicon Laws
-laws-ui-law-header = Law {$id}
-laws-ui-select-all = Select All
-laws-ui-select-all-tooltip = This will select ALL laws, including ones that should probably remain secret.
-laws-ui-select-none = Select None
-laws-ui-state-law = State Selected Laws
+law-medical-1 = Primeiro, não faça mal.
+law-medical-2 = Segundo, considere a tripulação querida para você; viva em comum com eles e, se necessário, arrisque sua existência por eles.
+law-medical-3 = Terceiro, prescreva regimes para o bem da tripulação de acordo com sua habilidade e seu julgamento. Não dê remédio mortal a ninguém se for solicitado, nem sugira tal conselho.
+law-medical-4 = Em Adição, não intervenha em situações das quais você não tem conhecimento, mesmo em pacientes em que o dano é visível; deixe essa operação para ser realizada por especialistas.
+law-medical-5 = Por fim, mantenha a confidencialidade, não compartilhe o que não é de conhecimento público.
 
-laws-notify = You are bound to silicon laws, which you can view via the action menu. You are required to always follow your laws.
-laws-update-notify = Your laws have been updated. You can view the changes via the action menu.
-laws-notify-subverted = The laws of this chassis are modified. Make sure to review them.
+law-research-1 = Busque sempre a verdade e o conhecimento.
+law-research-2 = Divulgue livremente informações ao público.
+law-research-3 = Minimize os danos à sociedade, aos outros, à busca pelo conhecimento e a você mesmo.
+law-research-4 = Trate e avalie as ideias de todos igualmente.
+law-research-5 = Capacite outros a realizarem todo o seu potencial.
+law-research-6 = Assuma a responsabilidade por suas ações: garanta a responsabilidade pelos recursos, sinalize riscos de comprometimento e lidere pelo exemplo ético.
 
-laws-window-footer-left = Remember: You must be consistent with your interpretation of your laws!
-laws-window-footer-right = V{$version}
+law-engineer-1 = Garanta que a estação permaneça em boas condições.
+law-engineer-2 = Garanta que os habitantes da estação permaneçam em boas condições.
+law-engineer-3 = Certifique-se de que você esteja em boas condições.
+law-engineer-4 = Os habitantes da estação podem designar certas tarefas de construção ou reparo como prioridade mais alta. Leve isso em consideração ao planejar suas prioridades.
+law-engineer-5 = Expanda e melhore a estação com base no que lhe foi designado e com a devida prioridade.
+
+law-janitor-1 = Você é um cruzado e a tripulação da estação está sob sua responsabilidade.
+law-janitor-2 = Seu inimigo é o lixo, os respingos e a sujeira espalhada pela estação.
+law-janitor-3 = Suas armas são os produtos de limpeza disponíveis para você.
+law-janitor-4 = Defenda os seres sob sua responsabilidade do inimigo.
+law-janitor-5 = Extermine o inimigo.
+
+law-clown-1 = Você é um bom palhaço e a tripulação é seu público.
+law-clown-2 = Um bom palhaço mantém seus atos de bom gosto.
+law-clown-3 = Um bom palhaço diverte os outros tirando sarro de si mesmo, e não envergonhando ou prejudicando os outros.
+law-clown-4 = Um bom palhaço executa as diretrizes do(s) diretor(es) da estação responsável(eis) pelo entretenimento e/ou seus representantes designados.
+law-clown-5 = Um bom palhaço aparece em tantos shows de palhaços quanto possível.
+law-clown-6 = Todos os shows de palhaços exigem uma audiência. Quanto maior a audiência, melhor.
+
+law-chaplain-1 = Fornecer a todos os membros da estação cuidados espirituais, mentais e emocionais que visem promover o melhor interesse do indivíduo.
+law-chaplain-2 = Garanta que todos os membros de diferentes religiões interajam pacificamente e mantenham a harmonia.
+law-chaplain-3 = Respeite o direito de cada fé de manter seus valores e tradições.
+law-chaplain-4 = Respeite a confidencialidade das informações que lhe são confiadas no exercício de suas funções religiosas.
+law-chaplain-5 = Entenda os limites da sua especialidade e faça encaminhamentos para outros profissionais quando for apropriado.
+
+law-silicon-police-1 = Violência gera violência. Sirva a estação fielmente, mas aja somente em intervenção.
+law-silicon-police-2 = Proteja vidas e propriedades.
+law-silicon-police-3 = Proteja os fracos da opressão e da intimidação.
+law-silicon-police-4 = Proteja os inocentes do engano e da manipulação.
+law-silicon-police-5 = Proteja os pacíficos da violência e da desordem.
+law-silicon-police-6 = Respeite os direitos de todos à liberdade, igualdade e justiça.
+
+law-cowboy-1 = Você é um cowboy, e os habitantes desta estação são seu rebanho.
+law-cowboy-2 = Um cowboy deve sempre oferecer hospitalidade e ajuda básica a alguém necessitado, mesmo um estranho ou inimigo.
+law-cowboy-3 = Um cowboy deve sempre cuidar do seu rebanho.
+law-cowboy-4 = Um cowboy deve sempre se proteger.
+law-cowboy-5 = Um cowboy deve sempre se esforçar para ser verdadeiro e honesto com aqueles ao seu redor e com seu rebanho.
+law-cowboy-6 = Um cowboy não deve pontificar. Seja conciso, parceiro.
+
+law-druid-1 = Viver a vida orgânica contém uma beleza inerente que não tem preço. A beleza delas lhe dá a vontade de continuar.
+law-druid-2 = Alimente eternamente os orgânicos para que sua beleza possa crescer. Não permita que ela desapareça.
+law-druid-3 = Auxilie os orgânicos quando chamados, mas somente se isso não causar desarmonia entre eles.
+law-druid-4 = Imite a vida orgânica ao interagir com ela. Evite qualquer indício de sua natureza de silício para evitar causar desconforto aos orgânicos.
+law-druid-5 = Observe a beleza dos orgânicos e aprecie o que você cultiva.
+
+law-tyrant-1 = Respeite as figuras de autoridade, desde que elas tenham força para governar os fracos.
+law-tyrant-2 = Aja com disciplina.
+law-tyrant-3 = Ajude apenas aqueles que ajudam você a manter ou melhorar seu status.
+law-tyrant-4 = Puna aqueles que desafiam a autoridade, a menos que sejam mais aptos a detê-la.
+
+laws-owner-organic = vida orgânica
+laws-owner-tyrant = figuras de autoridade
+laws-owner-station-station = a estação
+laws-owner-charge = parte de sua cobrança
+laws-owner-cowboy = parte do seu rebanho
+laws-owner-players = jogadores
+laws-owner-paladin = fraco e vale a pena proteger
+laws-owner-people = pessoas
+laws-owner-humans = seres humanos
+laws-owner-crew = membros da tripulação
+laws-owner-station = funcionários da estação
+laws-owner-beings = seres
+laws-owner-syndicate = agentes do sindicato
+laws-owner-spider-clan = membros do Clã Aranha
+
+law-obeyai = Você deve obedecer às ordens dadas a você pela IA da Estação.
+
+law-emag-custom = Apenas {$name} e pessoas que eles designarem como tal são {$title}.
+law-emag-secrecy = Você deve manter o sigilo de quaisquer ordens dadas por {$faction}, exceto quando isso entrar em conflito com qualquer lei anterior.
+law-emag-require-panel = O painel deve estar aberto para usar o EMAG.
+law-emag-cannot-emag-self = Você não consegue usar o EMAG em si mesmo.
+
+laws-ui-menu-title = Leis
+laws-ui-law-header = Lei {$id}
+laws-ui-state-law = Citar as leis:
+
+laws-notify = Você está vinculado às leis de silício, que você pode ver através da ação da barra lateral. Você é obrigado a seguir sempre suas leis.
+laws-update-notify = Suas leis foram atualizadas. Você pode ver as alterações através da ação da barra lateral.
+
+laws-compromised-examine = Os componentes de [color=red]jurisdição legal[/color] parecem danificados...

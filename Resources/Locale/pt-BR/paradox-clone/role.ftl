@@ -1,7 +1,7 @@
-paradox-clone-round-end-agent-name = paradox clone
+paradox-clone-round-end-agent-name = clone paradoxo
 
-objective-issuer-paradox = [color=lightblue]Paradox[/color]
+objective-issuer-paradox = [color=blue]Paradoxo[/color]
 
-paradox-clone-role-greeting = A freak space-time anomaly has teleported you into another reality! Now you have to find your counterpart and kill and replace them. Only one of you two can survive.
+paradox-clone-role-greeting = Uma anomalia espacial te teletransportou para outra realidade! Agora você tem que encontrar sua cópia, matá-lo e substituí-lo. Só um de vocês pode sobreviver.
 
-paradox-clone-ghost-name-modifier = {$baseName} (clone)
+paradox-clone-ghost-name-modifier = { $baseName } (Clone)

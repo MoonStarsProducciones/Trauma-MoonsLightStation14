@@ -7,30 +7,30 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-borg-player-not-allowed = The brain doesn't fit!
-borg-player-not-allowed-eject = The brain was expelled from the chassis!
+borg-player-not-allowed = O cérebro não cabe!
+borg-player-not-allowed-eject = O cérebro foi expelido do chassi!!
 
-borg-panel-not-open = The cyborg's panel isn't open...
+borg-panel-not-open = O painel do cyborg não está aberto...
 
-borg-mind-added = {CAPITALIZE($name)} powered on!
-borg-mind-removed = {CAPITALIZE($name)} shut off!
+borg-mind-added = {CAPITALIZE($name)} ligou!
+borg-mind-removed = {CAPITALIZE($name)} desligou!
 
-borg-module-too-many = There's not enough room for another module...
+borg-module-too-many = Não há espaço suficiente para outro módulo...
 borg-module-duplicate = This module is already installed in this cyborg...
-borg-module-whitelist-deny = This module doesn't fit in this type of cyborg...
+borg-module-whitelist-deny = Este módulo não se encaixa neste tipo de cyborg...
 borg-module-incompatible = This module isn't compatible with {THE($existing)}...
 borg-module-prerequisite-unfulfilled = This module requires another module to function...
 
 borg-module-action-name = Activate {$moduleName}
 borg-module-action-description = Select the {$moduleName}, enabling you to use the tools it provides.
 
-borg-construction-guide-string = The cyborg limbs and torso must be attached to the endoskeleton.
+borg-construction-guide-string = Os membros e o tronco do ciborgue devem ser ligados ao endoesqueleto.
 
-borg-ui-menu-title = Cyborg Interface
-borg-ui-charge-label = Charge: {$charge}%
-borg-ui-no-brain = No brain present
-borg-ui-remove-battery = Remove
-borg-ui-modules-label = Modules:
+borg-ui-menu-title = Interface de Ciborgue
+borg-ui-charge-label = Carga: {$charge}%
+borg-ui-no-brain = Nenhum cérebro presente
+borg-ui-remove-battery = Remover
+borg-ui-modules-label = Módulos:
 borg-ui-module-counter = {$actual}/{$max}
 
 # Transponder

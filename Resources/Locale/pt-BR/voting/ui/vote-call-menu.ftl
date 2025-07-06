@@ -18,22 +18,22 @@ ui-vote-type-votekick = Votekick
 # Votekick reasons
 ui-vote-votekick-type-raiding = Raiding
 ui-vote-votekick-type-cheating = Cheating
-ui-vote-votekick-type-spamming = Spamming
+ui-vote-votekick-type-spamming = Spam de mensagens
 
 # Window title of the vote create menu
-ui-vote-create-title = Call Vote
+ui-vote-create-title = Criar votação
 
 # Submit button in the vote create button
-ui-vote-create-button = Call Vote
+ui-vote-create-button = Criar votação
 
 # Follow button in the vote create menu
-ui-vote-follow-button = Follow User
+ui-vote-follow-button = Seguir Usuario
 
 # Timeout text if a standard vote type is currently on timeout.
-ui-vote-type-timeout = This vote was called too recently ({$remaining})
+ui-vote-type-timeout = Esta votação foi criada muito recentemente ({$remaining})
 
 # Unavailable text if a vote type has been disabled manually.
-ui-vote-type-not-available = This vote type has been disabled
+ui-vote-type-not-available = Esta votação foi desativada
 
 # Vote option only available for specific users.
 ui-vote-trusted-users-notice =
@@ -46,9 +46,9 @@ ui-vote-abuse-warning =
   Abuse of the votekick system may result in an indefinite ban!
 
 # Hue hue hue
-ui-vote-fluff = Powered by Robust™ Anti-Tamper Technology
+ui-vote-fluff = Oferecimento Robust™ Anti-Tamper Technology
 
 ## Vote menu command
 
-cmd-votemenu-desc = Opens the voting menu.
-cmd-votemenu-help = Usage: votemenu
+ui-vote-menu-command-description = Abre o menu de votação
+ui-vote-menu-command-help-text = Uso: votemenu

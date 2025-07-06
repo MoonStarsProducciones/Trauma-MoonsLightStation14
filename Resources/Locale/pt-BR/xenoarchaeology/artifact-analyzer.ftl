@@ -41,12 +41,15 @@ analysis-console-info-triggered-value = [font="Monospace" size=11][color=gray]{$
 analysis-console-info-scanner = Scanning...
 analysis-console-info-scanner-paused = Paused.
 analysis-console-progress-text = {$seconds ->
-    [one] T-{$seconds} second
-    *[other] T-{$seconds} seconds
+    [one] T-{$seconds} segundo
+    *[other] T-{$seconds} segundos
 }
 
 analysis-console-extract-value = [font="Monospace" size=11][color=orange]Node {$id} (+{$value})[/color][/font]
 analysis-console-extract-none = [font="Monospace" size=11][color=orange] No unlocked nodes have any points left to extract [/color][/font]
 analysis-console-extract-sum = [font="Monospace" size=11][color=orange]Total Research: {$value}[/color][/font]
 
-analyzer-artifact-extract-popup = Energy shimmers on the artifact's surface!
+analysis-console-print-popup = O console imprimiu um relatório.
+analyzer-artifact-extract-popup = Energia resplandece na superfície do artefato
+
+analysis-report-title = Relatório de Artefato: Node {$id}

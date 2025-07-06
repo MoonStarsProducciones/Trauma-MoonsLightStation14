@@ -14,28 +14,26 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-device-pda-slot-component-slot-name-cartridge = Cartridge
+device-pda-slot-component-slot-name-cartridge = Cartucho
 
-default-program-name = Program
-notekeeper-program-name = Notekeeper
-nano-task-program-name = NanoTask
-news-read-program-name = Station news
+default-program-name = Programa
+notekeeper-program-name = Bloco de notas
+news-read-program-name = Boletim da estação
 
-crew-manifest-program-name = Crew manifest
-crew-manifest-cartridge-loading = Loading ...
-crew-manifest-cartridge-loading-failed = Failed to load crew manifest!
+crew-manifest-program-name = Manifesto da tripulação
+crew-manifest-cartridge-loading = Carregando ...
 
-net-probe-program-name = NetProbe
-net-probe-scan = Scanned {$device}!
-net-probe-label-name = Name
-net-probe-label-address = Address
-net-probe-label-frequency = Frequency
-net-probe-label-network = Network
+net-probe-program-name = NetSonda
+net-probe-scan = Analisando {$device}!
+net-probe-label-name = Nome
+net-probe-label-address = Endereço
+net-probe-label-frequency = Frequência
+net-probe-label-network = Rede
 
-log-probe-program-name = LogProbe
-log-probe-scan = Downloaded logs from {$device}!
-log-probe-label-time = Time
-log-probe-label-accessor = Accessed by
+log-probe-program-name = LogSonda
+log-probe-scan = Registros baixados de {$device}!
+log-probe-label-time = Hora
+log-probe-label-accessor = Acessado por
 log-probe-label-number = #
 log-probe-print-button = Print Logs
 log-probe-printout-device = Scanned Device: {$name}

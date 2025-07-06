@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-gas-vent-pump-uvlo = It is in [color=red]under-pressure lock out[/color].
+gas-vent-pump-uvlo = Está em [color=red]bloquear sob-pressão[/color].
 gas-vent-pump-release-lockout = Release pressure lock out

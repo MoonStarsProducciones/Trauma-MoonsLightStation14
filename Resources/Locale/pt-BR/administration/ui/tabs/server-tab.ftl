@@ -6,9 +6,9 @@
 #
 # SPDX-License-Identifier: MIT
 
-server-shutdown = Shutdown
-server-ooc-toggle = Toggle OOC
-server-looc-toggle = Toggle LOOC
+server-shutdown = Desligar
+server-ooc-toggle = Alternar OOC
+server-looc-toggle = Alternar LOOC
 server-afk-timers = AFK Timers
 server-afk-time = Player AFK Time
 server-admin-afk-time = Admin AFK Time

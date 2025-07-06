@@ -13,26 +13,26 @@
 # you shouldn't be creating new hints for every effect/trigger
 # try and reuse them so that a hint isn't a dead giveaway. -emo
 
-artifact-effect-hint-mental = Cerebral influence
-artifact-effect-hint-environment = Environmental disruption
-artifact-effect-hint-electrical-interference = Electrical interference
-artifact-effect-hint-displacement = Metaphysical displacement
-artifact-effect-hint-creation = Matter creation
-artifact-effect-hint-consumption = Energy consumption
-artifact-effect-hint-release = Energy release
-artifact-effect-hint-biochemical = Biochemical disruption
-artifact-effect-hint-destruction = Station-wide destruction
-artifact-effect-hint-gun = Small entity accelerator
-artifact-effect-hint-multitool = Utility conglomerate
-artifact-effect-hint-storage = Internal chamber
-artifact-effect-hint-drill = Serrated rotator
-artifact-effect-hint-soap = Lubricated surface
-artifact-effect-hint-communication = Long-distance communication
-artifact-effect-hint-phasing = Structural phasing
-artifact-effect-hint-sentience = Neurological activity
-artifact-effect-hint-polymorph = Transmogrificational activity
-artifact-effect-hint-magnet = Magnetic waves
-artifact-effect-hint-visual = Visual distortions
+artifact-effect-hint-mental = Influência cerebral
+artifact-effect-hint-environment = Distúrbio ambiental
+artifact-effect-hint-electrical-interference = Interferência elétrica
+artifact-effect-hint-displacement = Deslocamento metafísico
+artifact-effect-hint-creation = Criação de matéria
+artifact-effect-hint-consumption = Consumo de energia
+artifact-effect-hint-release = Liberação de energia
+artifact-effect-hint-biochemical = Distúrbio bioquímico
+artifact-effect-hint-destruction = Destruição da estação inteira
+artifact-effect-hint-gun = Acelerador de pequena entidade
+artifact-effect-hint-multitool = Conglomerado de utilidades
+artifact-effect-hint-storage = Câmara interna
+artifact-effect-hint-drill = Rotor serrilhado
+artifact-effect-hint-soap = Superfície lubrificada
+artifact-effect-hint-communication = Comunicação de longa distância
+artifact-effect-hint-phasing = Faseamento estrutural
+artifact-effect-hint-sentience = Atividade neurológica
+artifact-effect-hint-polymorph = Atividade transmogrificacional
+artifact-effect-hint-magnet = Ondas magnéticas
+artifact-effect-hint-visual = Distorções visuais
 
 # the triggers should be more obvious than the effects
 # gives people an idea of what to do: don't be too specific (i.e. no "welders")

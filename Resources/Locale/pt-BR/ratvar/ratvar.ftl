@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-ratvar-has-risen = RATVAR HAS AWOKEN
+ratvar-has-risen = RATVAR DESPERTOU
 ratvar-has-risen-sender = ???

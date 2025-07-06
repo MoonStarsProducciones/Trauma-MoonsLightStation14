@@ -8,35 +8,31 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-fax-machine-popup-source-unknown = unknown
-fax-machine-popup-received = Received correspondence from { $from }.
-fax-machine-popup-name-long = Fax name is too long
-fax-machine-popup-name-exist = Fax with same name already exist in network
-fax-machine-popup-name-set = Fax name has been updated
+fax-machine-popup-source-unknown = desconhecido
+fax-machine-popup-received = Correspondência recebida de { $from }.
+fax-machine-popup-name-long = O nome do fax é muito longo
+fax-machine-popup-name-exist = Já existe um fax com o mesmo nome na rede
+fax-machine-popup-name-set = O nome do fax foi atualizado
 fax-machine-popup-error = ERROR - jam in paper feed
 fax-machine-popup-copy-error = ERROR - unable to copy!
 
-fax-machine-dialog-rename = Rename
-fax-machine-dialog-field-name = Name
+fax-machine-ui-window = Maquina de fax
+fax-machine-ui-file-button = Imprimir Arquivo
+fax-machine-ui-paper-button-normal = Papel Normal
+fax-machine-ui-paper-button-office = Papel de Ofício
+fax-machine-ui-copy-button = Copiar
+fax-machine-ui-send-button = Mandar
+fax-machine-ui-refresh-button = Atualizar
+fax-machine-ui-no-peers = Sem pares
+fax-machine-ui-to = Para:
+fax-machine-ui-from = A partir de:
+fax-machine-ui-paper = Papel:
+fax-machine-ui-paper-inserted = Papel na bandeja
+fax-machine-ui-paper-not-inserted = Não há papel
 
-fax-machine-ui-window = Fax Machine
-fax-machine-ui-file-button = Print File
-fax-machine-ui-paper-button-normal = Plain Paper
-fax-machine-ui-paper-button-office = Office Paper
-fax-machine-ui-copy-button = Copy
-fax-machine-ui-send-button = Send
-fax-machine-ui-refresh-button = Refresh
-fax-machine-ui-no-peers = No Peers
-fax-machine-ui-to = To:
-fax-machine-ui-from = From:
-fax-machine-ui-paper = Paper:
-fax-machine-ui-paper-inserted = Paper in tray
-fax-machine-ui-paper-not-inserted = No paper
-
-fax-machine-chat-notify = Received new fax message from "{$fax}" fax
+fax-machine-chat-notify = Nova mensagem de fax recebida do fax "{$fax}"
 
 fax-machine-printed-paper-name = printed paper
-
 fax-machine-sender-info =
     ─────────────────────────────────────
     Fax sent

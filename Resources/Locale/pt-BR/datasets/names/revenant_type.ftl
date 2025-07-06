@@ -1,8 +1,8 @@
-names-revenant-type-dataset-1 = essence
-names-revenant-type-dataset-2 = ghost
-names-revenant-type-dataset-3 = phantom
-names-revenant-type-dataset-4 = poltergeist
-names-revenant-type-dataset-5 = revenant
-names-revenant-type-dataset-6 = soul
-names-revenant-type-dataset-7 = spectre
-names-revenant-type-dataset-8 = spirit
+names-revenant-type-dataset-1 = substância
+names-revenant-type-dataset-2 = Fantasma
+names-revenant-type-dataset-3 = Fantasma
+names-revenant-type-dataset-4 = Poltergeist
+names-revenant-type-dataset-5 = Regressado.
+names-revenant-type-dataset-6 = alma
+names-revenant-type-dataset-7 = sombra
+names-revenant-type-dataset-8 = Espírito.

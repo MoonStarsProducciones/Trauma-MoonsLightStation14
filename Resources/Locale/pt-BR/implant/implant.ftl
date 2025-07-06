@@ -20,29 +20,43 @@
 
 ## Implanter Attempt Messages
 
-implanter-component-implanting-target = {CAPITALIZE(THE({$user}))} is trying to implant you with something!
-implanter-component-draw-target = {CAPITALIZE(THE({$user}))} is trying to extract something from you!
-implanter-component-implant-failed = The {$implant} cannot be given to {$target}!
-implanter-draw-failed-permanent = The {$implant} in {$target} is fused with { OBJECT($target) } and cannot be removed!
-implanter-draw-failed = You tried to remove an implant but found nothing.
+implanter-component-implanting-target = {$user} está tentando implantar algo em você!
+implanter-component-implant-failed = O {$implant} não pode ser dado a {$target}!
+implanter-draw-failed-permanent = O {$implant} em {$target} está engastado neles e não pode ser removido!
+implanter-draw-failed = Você tentou remover um implante mas não encontrou nada.
 implanter-draw-failed-catastrophically = The implanter finds nothing and catastrophically fails, shunting genetic material into {$user}'s hand!
 implanter-component-implant-already = {CAPITALIZE(THE({$target}))} already has the {$implant}!
+implanter-component-draw-target = {CAPITALIZE(THE({$user}))} is trying to extract something from you!
 
 ## UI
-implanter-set-draw-verb = Set Implant Draw
+implanter-draw-text = Sacar
+implanter-inject-text = Injetar
 implanter-set-draw-window = Set Implant Draw
-implanter-set-draw-info = Select the implant type this implanter should remove:
 implanter-set-draw-type = Implant type:
 
-implanter-draw-text = Draw
-implanter-inject-text = Inject
+implanter-empty-text = Nenhum
 
-implanter-empty-text = Empty
-
-implanter-label-inject = [color=green]{$implantName}[/color]
-    Mode: [color=white]{$modeString}[/color]
-
-implanter-label-draw = [color=red]{$implantName}[/color]
-    Mode: [color=white]{$modeString}[/color]
+implanter-label = Implante: [color=green]{$implantName}[/color] | [color=white]{$modeString}[/color]{$lineBreak}{$implantDescription}
 
 implanter-contained-implant-text = [color=green]{$desc}[/color]
+
+## Implant Popups
+
+scramble-implant-activated-popup = Você sente na pele sua aparência se alterar por completo
+
+## Implant Messages
+
+deathrattle-implant-dead-message = {$user} morreu em {$position}.
+deathrattle-implant-critical-message = Sinais de vida do {$user} estão críticos, assistência imediata necessária em {$position}.
+open-uplink-implant-action-name = Abrir Uplink
+open-uplink-implant-action-description = Abre o uplink do sindicato embutido sob sua pele
+
+use-emp-implant-action-name = Ativar EMP
+use-emp-implant-action-description = Aciona um pequeno pulso EMP ao seu redor
+
+use-dna-scrambler-implant-action-name = Misturar DNA
+use-dna-scrambler-implant-action-description = irá mudar completamente sua aparência (e talvez espécie)!
+
+## Implant Popups
+
+scramble-attempt-while-scrambled-popup = DNA embaralhado detectado, extraia o implante antes de desfazer a confusão atual.

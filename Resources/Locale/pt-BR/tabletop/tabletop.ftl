@@ -9,24 +9,26 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 ## TabletopGameComponent
-tabletop-verb-play-game = Play Game
-tabletop-verb-dump-pieces = Dump Pieces
-tabletop-default-board-name = Board Game
-tabletop-error-remove-non-hologram = You cant remove a built in piece!
-tabletop-added-piece = The board shimmers brightly!
+tabletop-verb-play-game = Jogar
+tabletop-verb-dump-pieces = Derrubar Peças
+tabletop-default-board-name = Jogo de Tabuleiro
+tabletop-error-remove-non-hologram = Você não pode remover uma peça embutida!
+tabletop-added-piece = A placa brilha intensamente!
 
 ## Chess
-tabletop-chess-board-name = Chess
-tabletop-chess-flip = Flip
+tabletop-chess-board-name = Xadrez
+tabletop-chess-flip = Virar
 
 ## Parchís
-tabletop-parchis-board-name = Parchís
+tabletop-parchis-board-name = Parchis
 
 ## Backgammon
-tabletop-backgammon-board-name = Backgammon
+tabletop-backgammon-board-name = Gamão
 
 ## Checkers
-tabletop-checkers-board-name = Checkers
+tabletop-checkers-board-name = Damas
 
 ## Battlemap
 tabletop-battlemap-board-name = Battlemap
+## Shogi
+tabletop-shogi-board-name = Shogi

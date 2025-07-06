@@ -1,6 +1,6 @@
-marking-HumanLongEars = Long Ears Standard
-marking-LongEarsWide = Long Ears Wide
-marking-LongEarsSmall = Long Ears Small
-marking-LongEarsUpwards = Long Ears Upwards
-marking-LongEarsTall = Long Ears Tall
-marking-LongEarsThin = Long Ears Thin
+marking-HumanLongEars = Orelhas longas são padrão.
+marking-LongEarsWide = Orelhas compridas
+marking-LongEarsSmall = Orelhas longas são pequenas.
+marking-LongEarsUpwards = Orelhas longas.
+marking-LongEarsTall = Orelhas longas altas
+marking-LongEarsThin = Orelhas longas são finas.

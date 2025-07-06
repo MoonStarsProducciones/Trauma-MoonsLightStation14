@@ -9,25 +9,24 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-mech-verb-enter = Enter
-mech-verb-exit = Remove pilot
+mech-verb-enter = Entrar
+mech-verb-exit = Sair
 
-mech-equipment-begin-install = Installing the {THE($item)}...
-mech-equipment-finish-install = Finished installing the {THE($item)}
+mech-equipment-begin-install = Instalando o {THE($item)}...
+mech-equipment-finish-install = Concluída a instalação do {THE($item)}
 
-mech-equipment-select-popup = {$item} selected
-mech-equipment-select-none-popup = Nothing selected
+mech-equipment-select-popup = {$item} selecionado
+mech-equipment-select-none-popup = Nada selecionado
 
-mech-ui-open-verb = Open control panel
+mech-ui-open-verb = Abrir painel de controle
 
-mech-menu-title = mech control panel
+mech-menu-title = painel de controle do mecha
 
-mech-integrity-display = Integrity: {$amount}%
-mech-energy-display = Energy: {$amount}%
-mech-energy-missing = Energy: MISSING
-mech-slot-display = Open Slots: {$amount}
+mech-integrity-display = Integridade: {$amount}%
+mech-energy-display = Energia: {$amount}%
+mech-slot-display = Espaços Livres: {$amount}
 
-mech-no-enter = You cannot pilot this.
+mech-no-enter = Você não consegue pilotar isso.
 
 mech-eject-pilot-alert = {$user} is pulling the pilot out of the {$item}!
 

@@ -4,8 +4,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-grave-start-digging-others = {CAPITALIZE($user)} starts digging {THE($grave)} with {THE($tool)}.
-grave-start-digging-user = You start digging {THE($grave)} with {THE($tool)}.
-grave-start-digging-user-trapped = You start clawing your way out of {THE($grave)}!
+grave-start-digging-others = {CAPITALIZE($user)} começa a cavar {THE($grave)} com {THE($tool)}.
+grave-start-digging-user = Você começa a cavar {THE($grave)} com {THE($tool)}.
+grave-start-digging-user-trapped = Você começa a abrir caminho para sair de {THE($grave)}!
 
-grave-digging-requires-tool = You need a tool to dig this {$grave}!
+grave-digging-requires-tool = Você precisa de uma ferramenta para cavar este {$grave}!
