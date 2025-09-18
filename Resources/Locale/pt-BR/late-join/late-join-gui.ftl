@@ -7,8 +7,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-late-join-gui-title = Late Join
-late-join-gui-jobs-amount-in-department-tooltip = Jobs in the {$departmentName} department
-late-join-gui-department-jobs-label = {$departmentName} jobs
-late-join-gui-job-slot-capped = {$jobName} ({$amount} open)
-late-join-gui-job-slot-uncapped = {$jobName} (∞ open)
+late-join-gui-title = Entrar Atrasado
+late-join-gui-jobs-amount-in-department-tooltip = Trabalhos no departamento de {$departmentName}
+late-join-gui-department-jobs-label = Trabalhos {$departmentName}
+late-join-gui-job-slot-capped = {$jobName} ({$amount} vagas)
+late-join-gui-job-slot-uncapped = {$jobName} (Sem limite)

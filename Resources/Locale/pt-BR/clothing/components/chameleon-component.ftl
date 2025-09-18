@@ -7,8 +7,8 @@
 
 
 ## UI
-chameleon-component-ui-window-name = Chameleon Settings
-chameleon-component-ui-search-placeholder = Search...
+chameleon-component-ui-window-name = Configurações de Camaleão
+chameleon-component-ui-search-placeholder = Procurar...
 
 ## Verb
-chameleon-component-verb-text = Chameleon
+chameleon-component-verb-text = Camuflar

@@ -1,12 +1,12 @@
-department-Cargo = Cargo
-department-Civilian = Civilian
-department-Command = Command
+department-Cargo = Logística
+department-Civilian = Serviços Civis
+department-Command = Comando
+department-Engineering = Engenharia
+department-Medical = Médicina
+department-Security = Segurança
+department-Science = Ciência
+department-Specific = Específicos da Estação
 department-CentralCommand = Central Command
-department-Engineering = Engineering
-department-Medical = Medical
-department-Security = Security
-department-Science = Science
 department-Silicon = Silicon
-department-Specific = Station specific
 
 department-Unknown = Unknown
