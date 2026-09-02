@@ -27,7 +27,7 @@ chat-manager-speech-double-quote-end = ”
 
 chat-manager-server-wrap-message = [bold]{$message}[/bold]
 chat-manager-sender-announcement = Comando Central
-chat-manager-sender-announcement-wrap-message = [font size=14][bold]{$sender}Anúncio de :[/font][font size=12]
+chat-manager-sender-announcement-wrap-message = [font size=14][bold]Anúncio de {$sender}:[/font][font size=12]
                                                 {$message}[/bold][/font]
 
 # Einstein Engines - Language begin (changing colors for text based on language color in handler)

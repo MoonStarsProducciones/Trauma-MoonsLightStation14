@@ -5,4 +5,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 humanoid-appearance-component-unknown-species = Person
-humanoid-appearance-component-examine = { CAPITALIZE(SUBJECT($user)) } { CONJUGATE-BE($user) } um(a) { $species } { $age }.
+humanoid-appearance-component-examine = { CAPITALIZE(SUBJECT($user)) } { CONJUGATE-BE($user) } {GENDER($user) ->
+    [female] uma
+    *[other] um
+} { $species } { $age }.
